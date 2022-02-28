@@ -1,0 +1,779 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rupes Israelis: = The rock of Israel. A little part of its glory laid forth in a sermon preached at Margarets in Westminster before the honorable House of Commons, at their monthly fast, Apr. 24. 1644. By Edmund Staunton, D.D. minister at Kingston upon Thames, in the county of Surrey, a member of the Assembly of Divines.</title>
+            <author>Staunton, Edmund, 1600-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 88 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93833</idno>
+            <idno type="STC">Wing S5342</idno>
+            <idno type="STC">Thomason E48_6</idno>
+            <idno type="STC">ESTC R11555</idno>
+            <idno type="EEBO-CITATION">99859067</idno>
+            <idno type="PROQUEST">99859067</idno>
+            <idno type="VID">111129</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93833)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111129)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E48[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rupes Israelis: = The rock of Israel. A little part of its glory laid forth in a sermon preached at Margarets in Westminster before the honorable House of Commons, at their monthly fast, Apr. 24. 1644. By Edmund Staunton, D.D. minister at Kingston upon Thames, in the county of Surrey, a member of the Assembly of Divines.</title>
+                  <author>Staunton, Edmund, 1600-1671.</author>
+               </titleStmt>
+               <extent>[10], 29, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Christopher Meredith, dwelling at the Crane in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Deuteronomy XXXII, 31 --  Sermons --  Early works to 1800.</term>
+               <term>Fast-day sermons --  17th century.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111129:1"/>
+            <pb facs="tcp:111129:1" rendition="simple:additions"/>
+            <p>
+               <hi>R<g ref="char:V">Ʋ</g>PES ISRAELIS:</hi> THE ROCK OF ISRAEL.</p>
+            <p>A Little part of its glory laid forth in a Sermon preached at <hi>Margarets</hi> in <hi>Weſtminſter</hi> before the Honorable Houſe of COM<g ref="char:EOLhyphen"/>MONS, at their monthly Faſt, <hi>Apr.</hi> 24. 1644.</p>
+            <p>By <hi>Fdmund Staunton,</hi> D. D. Miniſter at <hi>King<g ref="char:EOLhyphen"/>ſton</hi> upon <hi>Thames,</hi> in the County of <hi>Surrey,</hi> a Member of the Aſſembly of Divines.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Chriſtopher Meredith,</hi> dwelling at the Crane in Pauls Church-yard. 1644.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:111129:2"/>
+            <pb facs="tcp:111129:2"/>
+            <head>To the Honourable Houſe of COMMONS now aſſembled in PARLIAMENT.</head>
+            <opener>
+               <salute>Renowned Worthies,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hat the <hi>Pulpit</hi> ſent to ſome of your <hi>eares,</hi> the <hi>Preſſe</hi> now ſends to ſome of your eyes; the good God ſend it into every one of your <hi>hearts,</hi> and through your hearts, into your hands, and lives; the <hi>Argument</hi> is worthy of your eares, eyes, hearts, and hands, for it is of the <hi>higheſt,</hi> God and Chriſt, and of the <hi>ſweeteſt,</hi> God in Chriſt.</p>
+            <p>Your thoughts have need enough of high and heart<g ref="char:EOLhyphen"/>ning ſubjects, for the work that a gracious Providence hath ingaged you in, is of high concernment, and the oppoſitions you meet withall, are high alſo: The buil<g ref="char:EOLhyphen"/>ding of a Temple and of a <hi>Ieruſalem,</hi> is by God and his people put into your hands, Church and State lie un<g ref="char:EOLhyphen"/>ſhap'd, unform'd, before you; let me mind you of <hi>To<g ref="char:EOLhyphen"/>biahs, Sanballats, Rehums,</hi> and <hi>Shimſhai's,</hi> acting their parts to the life; and be you excited and inga<g ref="char:EOLhyphen"/>ged thereby to appeare ſtill as ſo many <hi>Ezra's, Zerub<g ref="char:EOLhyphen"/>babels,</hi> and <hi>Nehemiahs:</hi> ſee a coincidency of provi<g ref="char:EOLhyphen"/>dence betwixt thoſe times, and ours; <hi>Iudah's</hi> ene<g ref="char:EOLhyphen"/>mies, and ours in ſome particulars.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> When the foundation of the Temple was laid, there
+<pb facs="tcp:111129:3"/>was great joy,
+<note place="margin">Izra. 3.11, 12, 13.</note> and as great a mourning; and when <hi>Sanballat</hi> and <hi>Tobiah</hi> heard <hi>that there was come a man to ſeek the welfare of the children of</hi> Iſrael, <hi>it grieved them exceedingly,</hi> and when they heard that the work went on,
+<note place="margin">Neh. 2.10. Neh. 4.9.</note> 
+               <hi>they were very wroth;</hi> We have a godly generation among us, that ſhout for joy, and praiſe the Lord, and an ungodly generation that weep with a loud voyce, and complaine their gods are gone, <hi>their god Epiſcopacy,</hi> their god <hi>Liturgy,</hi> the <hi>Or<g ref="char:EOLhyphen"/>gan,</hi> and the <hi>Surplice,</hi> the <hi>Croſſe,</hi> and the <hi>May-Pole,</hi> the <hi>Sabbath-dance,</hi> and the <hi>Whitſon-Ale;</hi> they grieve exceedingly, and are very wroth, and if you aske any of them, <hi>What aileth thee?</hi> he may an<g ref="char:EOLhyphen"/>ſwer,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>What have I more?</hi> And thus the harmony of times begins,
+<note place="margin">Ezek. 4.2, 3.</note> ſee how it goes on. The ſubtile adverſaries come to <hi>Zerubbabel,</hi> and to the chiefe of the Fathers, and ſay, <hi>Let us build with you, for we ſeek your God, as yee doe;</hi> but <hi>Zerubbabel</hi> and <hi>Ioſhua</hi> were too wiſe to truſt them, and ſaid unto them, <hi>You have nothing to doe with us, to build an houſe unto our God;</hi> the ſeeming builder is more dangerous then the profeſſed deſtroyer.
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> This plot failing, they <hi>hired Counſellers to fruſtrate the purpoſe of the</hi> Iewes,
+<note place="margin">Ver. 5. Jun. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> loc.</note> 
+               <hi>all the dayes of</hi> Cyrus, <hi>even untill the reigne of</hi> Darius Longimanus, the fourth from <hi>Cyrus;</hi> and the Popiſh, with the Prelaticall faction have hired Counſellers, ſubtile-headed, falſe-hearted Statiſts and Lawyers, to hinder the Reformation from the dayes of <hi>Edward</hi> the ſixth,
+<milestone type="tcpmilestone" unit="unspecified" n="4"/> (that Engliſh <hi>Ioſiah</hi>) untill the reigne of a fourth Prince amongst us.
+<note place="margin">Verſ 7, 8, 12, 13.</note> The work now goes on amaine, yet <hi>Rehum</hi> and <hi>Shimſhai,</hi> with their companions (accuſers of the brethren) lay heavie things to the charge of <hi>Ieruſalem,</hi> it is <hi>a rebellious and a
+<pb facs="tcp:111129:3"/>bad City;</hi> when it is built, will <hi>not pay toll, tri<g ref="char:EOLhyphen"/>bute, and cuſtome,</hi> the <hi>revenues of the Kings will be much endamaged,</hi> and <hi>it was not meet for them to ſee the Kings diſhonour;</hi> thus glozing ſycophants with ſpecious pretexts of tendring his Authority, profits, and honour, flatter <hi>Artaxerxes,</hi> when their deſigne was to cut the throat of the <hi>Iewes</hi> and of Reli<g ref="char:EOLhyphen"/>gion at once. This in ſinuation prevailes ſo farre,
+<milestone type="tcpmilestone" unit="unspecified" n="5"/> that the King ſends out Decrees,
+<note place="margin">Verſ. 21.</note> and commands <hi>to cauſe the builders to ceaſe:</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> and to carry on this unjuſt De<g ref="char:EOLhyphen"/>cree, they <hi>take up arms,</hi> and by <hi>force and power,</hi>
+               <note place="margin">Verſ. 23.</note> in a way of open hoſtility <hi>make the builders to ceaſe,</hi> and our <hi>Tobiahs</hi> and <hi>Sanballats</hi> are caried by the ſame ſpirit, or a worſe, pillaging and plundering their very friends, that freely quartered them, acting hor<g ref="char:EOLhyphen"/>rid barbariſmes in <hi>Ireland</hi> and <hi>England,</hi> ſlaying the husband before the wife, or raviſhing the wife before the husband; reviving the cruelty of <hi>Phocas</hi> to <hi>Mau<g ref="char:EOLhyphen"/>ritius,</hi> ſlaying his wife and children before his face,
+<note place="margin">Melanc. L. C.</note> and then putting him to death alſo.</p>
+            <p>By the view of this parallel, you ſee right well, how it ſtands you upon to be famous <hi>Ezra's, Nehe<g ref="char:EOLhyphen"/>miahs,</hi> and <hi>Zerubbabels</hi> in your generation, and how you need all helps and ſupports from without, you may find all in one, in the <hi>Rock of Iſrael;</hi> and in<g ref="char:EOLhyphen"/>deed glorious things are ſpoken of, and more glorious things are done by this <hi>Rock of Iſrael;</hi> onely that you may have intereſt in, and get vertue from this Rock ſo glorious, each man among you muſt make it good, that his name is <hi>Iſrael,</hi>
+               <note place="margin">Druſius <hi>likes not this</hi> cry<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, <hi>for in</hi> ſono vecis tantum eſt. <hi>Pſal. 46.8.</hi>
+               </note> which by the etymon of the word is (as ſome) <hi>Vir videns Deum,</hi> a man ſeeing God; and the true Iſraelite among you, <hi>ſees</hi> and conſi<g ref="char:EOLhyphen"/>ders the <hi>works of God, what deſolations he hath
+<pb facs="tcp:111129:4"/>wrought upon the earth;</hi> ſees and knowes God not as a Creator only, (ſo the <hi>Gentiles</hi> ſaw him by the dark light of nature) but as a Redeemer alſo, and that not through the cloud of legall ſacrifices and ſhadowes (ſo the <hi>Jewes</hi> of old ſaw him) but in a perſpicuous and cleare light,
+<note place="margin">John 1.18. Matth. 5.8. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> com<g ref="char:EOLhyphen"/>pounded of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>principa<g ref="char:EOLhyphen"/>tu obt. nuit,</hi> and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Deus.</hi> So the holy Ghoſt expounds it, Gen 32 28. Hoſ. 12 4. <hi>Legh. Crit. Sac.</hi>
+               </note> in Chriſt, and in the goſpel; yea the glory of hea<g ref="char:EOLhyphen"/>ven conſiſts in a full ſight of God, lies in viſion: the man whoſe name is <hi>Iſrael,</hi> is <hi>Princeps Dei,</hi> a Prince of God, hath power with God, and from God; he that <hi>Iacob</hi>-like wraſtles with God by ſtrength of faith, by importunity of prayer, and prevailes, goes away with the name <hi>Iſrael;</hi> and though he goe halting away, (ſpoy<g ref="char:EOLhyphen"/>led of his eſtate, deprived of friends, &amp;c. in theſe con<g ref="char:EOLhyphen"/>flicting times) yet he carries a bleſsing with him, comes off with comfort and honour, and having a pre<g ref="char:EOLhyphen"/>vailing power with God, you need not feare but you ſhall prevaile over <hi>Eſau's</hi> as hairy, as rough, and rugged as they are; yea, that <hi>faith</hi> which prevailes with God, will <hi>ſubdue Kingdomes</hi> alſo,
+<note place="margin">Heb. 11.33.</note> and that faith which ſub<g ref="char:EOLhyphen"/>dues Kingdomes, will eaſily (if put out in the ſtrength of it) ſubdue the prophane and malignant crew of a Kingdome,
+<note place="margin">Iſa 8 9, 10.</note> who though they <hi>aſſociate themſelves to<g ref="char:EOLhyphen"/>gether,</hi> and cry, <hi>A confederacy, a confederacy, yet ſhall they be broken in peeces,
+<note place="margin">Pſal. 112.7. So <hi>Anſw.</hi> Pſal. 20.</note> for God is with us.</hi> And therfore be <hi>not</hi> at any time <hi>afraid of evil tidings</hi> (or heare-ſay) but <hi>let your hearts be fixed, truſting in the Lord. Truſt not in
+<note n="*" place="margin">Such they uſed to fight to of old.</note> Charets</hi> (cald by the Greeks
+<note n="a" place="margin">
+                  <hi>Weem. Chr. Syn.</hi> Pſal. 33.17.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, becauſe they held two) <hi>nor yet in hor<g ref="char:EOLhyphen"/>ſes,</hi> though strong and ſwift, they are <hi>vaine things to ſave a man, neither ſhall they deliver any by their great ſtrength; but remember the name of the Lord your God,</hi> truſt in that God who once helpt the poore diſtreſſed <hi>Romans</hi> againſt <hi>Rhadagaiſus,</hi>
+               <pb facs="tcp:111129:4"/>King of the <hi>Goths,</hi> when in oneday above an hundred thouſand <hi>Goths</hi> were ſlaine,
+<note place="margin">
+                  <hi>Auſtin.</hi> de civ. Dei, l. <hi>5.</hi> c. <hi>23.</hi> Ne uno quidem non extincto, ſed nec vulnerato Romanorum. <hi>Iſa 42.8.</hi>
+               </note> the King and his ſonnes taken priſoners, yet not one of the <hi>Romans</hi> ſlaine, no nor wounded; truſt in that God who hath ingaged his very God-head, his <hi>I AM,</hi> for <hi>Iſraels</hi> good; <hi>I am the Lord, that is my name, and my glory will I not give to another, neither my praiſe to graven Images.</hi> Againe, let me beſeech you for the Lords ſake, to ſtudy <hi>ſingleneſſe of heart,</hi> and abhorre pri<g ref="char:EOLhyphen"/>vate-ſelfe reſpects in managing the publike cauſe of God, ſtartle at the very thoughts of hedging in your owne ends, or perſonall advantages, in point of <hi>honor,
+<note place="margin">
+                     <hi>Rem magnam p. aeſtas Zoile, ſi boeus es.</hi> Auſtin. <hi>Qui contemnit judi<g ref="char:EOLhyphen"/>cia laudatium, contemnit ſuſpi<g ref="char:EOLhyphen"/>cantium teme<g ref="char:EOLhyphen"/>ritatem.</hi>
+                  </note> gaine,</hi> or <hi>command,</hi> either for you or yours; to be ſquint-eyed, and ſelfe-aimed in tranſacting the great affaires of God and his Church, ſtands not with a love of Truth and Peace; move upon pious principles, goe on with plaine honeſt hearts, neglect the judgement of thoſe that praiſe you, and contemne the raſhneſſe of thoſe that cenſure you; who would not be faithfull in the cauſe of God, and in the quarrell of his people, when they ſee others to be faithfull ſlaves and vaſſals to the Pope and Devill?
+<note place="margin">M. Reguli fi<g ref="char:EOLhyphen"/>detuas inim<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> faceret nos fideles Deo &amp; hominibus.</note> Who would not be faithfull by the light of grace to God, and the Godly his friends, when <hi>Mar. Regulus</hi> a Heathen, by the light of nature, was faithfull to his very enemies?</p>
+            <p>
+               <hi>Honoured Patriots,</hi> I will hold you no longer in the gate or Preface, but humbly intreat you to hoiſe up your ſailes of pious reſolutions, or if up already, doe not narrow them, much leſſe take them quite downe, for all the prayers in the world that are worth the having, are yours, and make up a full gale to carry you on amaine; you ſhall ride over all the waves and billowes of contradictions and oppoſitions whatſoever; Wherefore
+<pb facs="tcp:111129:5"/>be clothed with Chriſtian fortitude, and magnanimity of ſpirit, as with armour of proofe. <hi>Watch yee, ſtand faſt,
+<note place="margin">1 Cor. 16.13. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> quit your ſelves like men, be ſtrong;</hi> you have to deale with adverſaries which are ſlie and ſubtile, therefore <hi>watch;</hi> which are unwearied, which never have done, therefore hold out, <hi>ſtand faſt;</hi> which are ſtout and hardy, therefore <hi>quit your ſelves like men; be ſtrong,</hi> to break through difficulties and dangers, though many,
+<note place="margin">1 Cor. 15.58.</note> mighty: <hi>Be ſtedfaſt, immovable, al<g ref="char:EOLhyphen"/>waies abounding in this work of the Lord,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> &amp; know your labour ſhall not be in vaine in the Lord;</hi> be <hi>ſtedfaſt,</hi> by faith founded upon Chriſt, as a houſe built upon a Rock,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> and from thence, be <hi>immovable,</hi> unſha<g ref="char:EOLhyphen"/>ken by winds or weather,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> by feares or flatteries; be <hi>a<g ref="char:EOLhyphen"/>bounding,</hi> and <hi>alwayes</hi> abounding in this work of the Lord; know you can never doe enough for that God, who hath done ſo much for you, and will doe yet more alſo; let your hearts be alwayes flaming with love and zeale for God, his cauſe and glory, let your heads and hands be alwayes working, and know for your comfort and incouragement, God will abundantly reward you What though you ſpend your time, your ſtrength, your eſtates, God will recompence it even ſeven-fold into the bo<g ref="char:EOLhyphen"/>ſome of you and yours: <hi>your labour ſhall not be in vaine in the Lord.</hi> Conſider the goodly man-child of Reformation is come nigh unto the birth, it will be your comfort and honour unto eternity upon pious principles to midwife it unto a ſafe delivery; let the <hi>feare of God</hi> put you upon the work,
+<note place="margin">Exod, 1.21. alluded to</note> and then he ſhall <hi>make you houſes,</hi> ſhall multiply your chil<g ref="char:EOLhyphen"/>dren, inlarge your eſtates, make your names and fa<g ref="char:EOLhyphen"/>milies great from generation to generation; God is for us, who can be againſt us? the condition of
+<pb facs="tcp:111129:5"/>
+               <hi>England</hi> and <hi>Scotland,</hi> is, as of old, the caſe of <hi>Iſrael</hi> and <hi>Iudah,</hi> we were oppreſt together, and all that took us captives held us faſt;
+<note place="margin">Jer. 50 33, 34.</note> they refuſed to let us goe, but our Redeemer is ſtrong, the Lord of Hoſts is his Name, he ſhall throughly plead our cauſe, that he may give reſt to our Land, and diſquiet the inhabitants of <hi>Babylon;</hi> ſo prayes, ſo hopes</p>
+            <closer>
+               <signed>Yours to ſerve you, becauſe you are Chriſts and the Publickes, EDMUND STAUNTON.</signed>
+            </closer>
+         </div>
+         <div type="order">
+            <pb facs="tcp:111129:6"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Mercurii</hi> 24. April. 1644.</date>
+               </dateline>
+            </opener>
+            <p>IT is this day Ordered by the Commons Aſſembled in Parliament, That Sir <hi>Ro<g ref="char:EOLhyphen"/>bert Harley</hi> and Sir <hi>Robert Pye,</hi> doe from this Houſe give thanks unto Doctor <hi>Staun<g ref="char:EOLhyphen"/>ton</hi> and Maſter <hi>Green,</hi> for the great paines they took in the Sermons they preached this day at Saint <hi>Margarets Weſtminſter,</hi> at the intreaty of this Houſe (it being the day of publike Humiliation;) and they are de<g ref="char:EOLhyphen"/>ſired to Print their Sermons. And it is Ordered that none ſhall preſume to Print their, or either of their Sermons, but by the authority of their hands writing.</p>
+            <closer>
+               <signed>H. Elſynge Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="authorization">
+            <p>I authoriſe <hi>Chriſtopher Meredith</hi> to Print my Sermon.</p>
+            <closer>
+               <signed>EDMUND STAUNTON.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:111129:6"/>
+            <head>A SERMON Preached at the LATE FAST, Before the Honorable Houſe of COMMONS.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>DEUT. 32.31.</hi>
+                  </bibl>
+                  <p>For their rock is not as our Rock, even our enemies themſelves being Iudges.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He words are a ſweet ſtraine in a Song of <hi>Moſes,</hi> full of faith and triumph, and ſuite well enough with a day of mour<g ref="char:EOLhyphen"/>nings, for <hi>the
+<note n="a" place="margin">Lev. 25.9.</note> Jubile trumpet ſounded in the day of Atonement;</hi> and our low<g ref="char:EOLhyphen"/>eſt humiliations, are the inlets of our higheſt exaltations.</p>
+            <p>Wee may looke upon the text as a
+<note n="b" place="margin">Toſtat. in Loc.</note> 
+               <hi>Caution,</hi> laid in to prevent the inſulting and blaſpheming language of a
+<pb n="2" facs="tcp:111129:7"/>ſometimes prevailing enemy, who might vaunt, and ſay, <hi>Our Arme hath broken Iſrael,</hi> and, <hi>our gods are victorious;</hi> No. ſaith <hi>Moſes,</hi> ver. 30. <hi>How ſhould one chaſe a thouſand, and two put ten thouſand to flight, except their Rock had ſold them, and the Lord had ſhut them up?</hi> to wit,
+<note n="c" place="margin">According to the promiſe made to Iſrael. Lev. 26.7.8. See <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. in loc. lun. in loc.</note> one Iſraelite could not but chaſe a thouſand enemies, and two could not but put ten thouſand to flight, except their rock had ſold them, and the Lord had ſhut them up. Or thus, there is an impoſſibility that one (of the enemies) ſhould chaſe a thouſand, (Iſraelites) or two put ten thou<g ref="char:EOLhyphen"/>ſand to flight, except their Rock, &amp;c. And the reaſon of that impoſſibility ariſeth from the ſoveraignty of God, Iſraels protector, and the vanity of Idols, yea of all the props and ſupporters of the enemy: eſpecially Gods ſoveraignty, and their vanity being balanced toge<g ref="char:EOLhyphen"/>ther; <hi>For their rocke is not as our Rock, even the enemies themſelves being Iudges.</hi>
+            </p>
+            <p>For the letter or Grammar of the words, the Originall runs thus,
+<note n="d" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>for not like our Rock their rock:</hi> The e Septu<g ref="char:EOLhyphen"/>agint renders it
+<note n="a" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>For their Gods are not as our God:</hi> But the rendring of the Hebrew <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>a Rock,</hi> by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, God, (
+<note n="b" place="margin">So rendred verſe 4. &amp; Pſal. 71.3. &amp;c. <hi>Leigh</hi> Crit. Sac. in vet. Teſt.</note> which is uſuall in the Septuagint) is rather an Interpre<g ref="char:EOLhyphen"/>tation, then a tranſlation. Many Latin Bibles follow ra<g ref="char:EOLhyphen"/>ther the Septuagint, then the Originall, and have <hi>Deut &amp; dei,</hi> God and gods: the Chaldee Paraphraſe ſaith <hi>Strength:</hi> this to the ſenſe alſo, though not to the letter. Lay all together, and you have the whole before you, <hi>Their rock is not as our Rock;</hi> their <hi>gods,</hi> not as our <hi>God;</hi> their <hi>ſtrength,</hi> not as our <hi>Strength.</hi>
+            </p>
+            <p>
+               <hi>Even our enemies themſelves being Judges,</hi> the Origi<g ref="char:EOLhyphen"/>nall runs thus,
+<note n="a" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>Even our enemies Judges.</hi> The Septuagint renders it,
+<note n="b" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>and our enemies unintelligent fooles and witleſs:</hi> And
+<note n="c" place="margin">
+                  <hi>Agelius in boc Cant. Moſ. non inimici no<g ref="char:EOLhyphen"/>ſtri conſiliarii,</hi> or <hi>inimici no<g ref="char:EOLhyphen"/>ſtri ſtulti, &amp;c.</hi>
+               </note> 
+               <hi>Agelius</hi> tells us, that ſome of the Hebrewes gave the occaſion probably to the Septuagint for this tranſlation: for they breake the words into two negative Propoſiti<g ref="char:EOLhyphen"/>ons: firſt, <hi>Their rock is not as our Rock;</hi> the ſecond, and <hi>Our enemies are not Judges,</hi> that is, <hi>not men of wiſedome,</hi>
+               <pb n="3" facs="tcp:111129:7"/>but ſilly Idiots, fetching the negative particle of the firſt propoſition into the ſecond, though not expreſſed. And this is an uſuall Hebraiſme; take one inſtance,
+<note place="margin">Pſ. 38.1.</note> 
+               <hi>O Lord rebuke me not in thy indignation, and chaſten me not in thy ſore diſpleaſure:</hi> the negative particle in the former clauſe is not expreſſed in the latter, though underſtood. And this Interpretation of the Text, if poſſible, yet not probable: and if any curiouſly inquire for the reaſon why the Septu<g ref="char:EOLhyphen"/>agint tranſlates <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Judges</hi> by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ſenſeleſſe, foo<g ref="char:EOLhyphen"/>liſh?</hi> I muſt anſwer him, with an <hi>ergo quaere,</hi> inquire ſtill.</p>
+            <p>For the Rhetorick of the words, firſt ſome think there is an <hi>Apoſtrophe,</hi> a turning of the ſpeech in the whole, by <hi>Moſes,</hi> ſo <hi>Junius;</hi> or the people, ſo <hi>Ainſworth;</hi>
+               <note n="d" place="margin">Iun. Annot. in loc.</note> by <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> and the people, probable alſo. <hi>Moſes</hi> ſpake his owne mind and the mind of the people, ſaying, <hi>their rocke is not as our rocke,</hi> &amp;c. Againe, others conceive there are two tropes, a <hi>Metaphor</hi> in the word rock, for God, ſtrength, ſupports, and a <hi>Synecdoche generis proſpecie,
+<note place="margin">Piſcator in loc.</note> their rocke</hi> ex<g ref="char:EOLhyphen"/>preſsing all the props and ſupports of enemies, when their Idol-gods their principall ſupports are eſpecially aym<g ref="char:EOLhyphen"/>ed at.</p>
+            <p>In ſtead of the Logick and diviſion of the text, be plea<g ref="char:EOLhyphen"/>ſed to take notice of theſe five particulars: the three firſt neceſſarily implyed; the two laſt plainly expreſt.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, that <hi>Iſrael</hi> hath an enemy.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, that this enemy hath a rock, to wit, ſome<g ref="char:EOLhyphen"/>thing he truſts unto and leans upon, <hi>their Rock.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, that <hi>Iſrael</hi> hath a Rock alſo, <hi>our Rock.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, that there is no compariſon betweene the rock of the enemy, and the rock of <hi>Iſrael, their rock is not &amp;c.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fifthly, that the proofe hereof is from the adverſaries themſelves, <hi>our enemies themſelves being Iudges.</hi>
+            </p>
+            <p>The firſt <hi>obſervation</hi> is, that <hi>Iſrael</hi> hath an enemy, the Aſſyrians, Chaldeans, Romans, but eſpecially the <hi>Egyptians</hi> here pointed at, as <hi>Iſraels</hi> moſt notorious and profeſſed enemies: and the grand enemy of Gods
+<pb n="4" facs="tcp:111129:8"/>
+               <hi>Iſrael</hi> in our dayes is <hi>Rome</hi> and its adherents typed out by <hi>Egypt,</hi>
+               <note place="margin">Rev. 11.8.</note> and hence the great City <hi>Rome</hi> is ſpi<g ref="char:EOLhyphen"/>ritually called Egypt.</p>
+            <p>Spiritually, that is, by way of Allegory and reſem<g ref="char:EOLhyphen"/>blance, the Kingdome of <hi>Egypt</hi> ſhadowing out the King<g ref="char:EOLhyphen"/>dome of the beaſt: the Parallel may run thus.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, Egypts <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>mad-Idoll worſhip,</hi> having brutiſh Gods, the Cow, the Oxe and the Crocodile, and Herbal Gods,
+<note n="e" place="margin">Herodot. in Enter.</note> leekes and onyons. You may read at large the groſſeneſſe of Egypts Idolatry, in <hi>Herodotus</hi> and
+<note n="f" place="margin">Juvenal Sa<g ref="char:EOLhyphen"/>tyr. 15 quis neſcit — qualia demens Aegyptus pot<g ref="char:EOLhyphen"/>tenta colat.</note> 
+               <hi>Juvenall:</hi> and yet <hi>Rome</hi> is more idolatrous. <hi>Egypt</hi> adored creatures <hi>animale</hi> of Gods making; <hi>Rome,</hi> things inani<g ref="char:EOLhyphen"/>mate alſo of mans making, ſtocks and ſtones; <hi>Rome</hi> hath Gods of gold, and ſilver, of braſſe, and wood in their painted and carved Images; hath a breaden God in their reall preſence, makes all the Saints and Angels Gods, by their invocation or adoration of them, makes every Prieſt a God by his power of tranſubſtantiation, and (that they may have Gods enough) they make every one of themſelves, yea every good work they doe, a God, by opinion of merit in it:
+<note place="margin">Mant. Eclog. 9. Fama eſt Ae<g ref="char:EOLhyphen"/>gyptum &amp;c.</note> and therefore the Poet <hi>Mantuan</hi> ſpake truth, and Divinity, when he ſaid, that <hi>Rome</hi> was more idolatrous then <hi>Egypt.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, one of the plagues of Egypt was darkneſſe, and ſurely the Kingdom of the beaſt is a Kingdome of darkneſſe; <hi>Romes</hi> deluded Proſelytes are tutored into ig<g ref="char:EOLhyphen"/>norance of Scriptures, Chriſt, and God: <hi>Egypts</hi> darkneſſe was externall,
+<note place="margin">Luther in Act. <hi>Auguſt.</hi> Italia in Aegypti te<g ref="char:EOLhyphen"/>nebras palpa<g ref="char:EOLhyphen"/>biles projecta, adeò ignorant omnes Chri<g ref="char:EOLhyphen"/>ſtum &amp; quae ſunt Chriſti.</note> 
+               <hi>Romes</hi> inward, and ſpirituall; <hi>Egypts</hi> was in<g ref="char:EOLhyphen"/>voluntary, and lamented darkneſſe, <hi>Romes</hi> voluntary and affected; <hi>Egypts</hi> penall, <hi>Romes</hi> criminall; <hi>Egypts</hi> but a<g ref="char:EOLhyphen"/>bout a three dayes darkneſſe, <hi>Romes</hi> a laſting, if not an everlaſting darkneſſe: hence <hi>Luthers</hi> verdict, <hi>Italy lyes involved in the palpable fogges of Egyptian darkneſſe, they are all ſo ignorant of Christ, and of the things of Chriſt.</hi> Adeo ig<g ref="char:EOLhyphen"/>norant omnes Chriſtum &amp; quae ſunt Chriſti.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, cruelty to <hi>Iſrael</hi> was the great ſin of <hi>Egypt</hi> ſet<g ref="char:EOLhyphen"/>ting hard taskmaſters over them,
+<note place="margin">Exod. 5.7, 8.</note> exacting the tale of
+<pb n="5" facs="tcp:111129:8"/>Bricks when ſtraw denied; but <hi>Romes</hi> cruelty reſts not in the eſtates of men, ſqueezing them as Sponges, nor in the bodies of men, whipping them with penances, and tyring them with pilgrimages, but reaches the very ſoule and conſcience, the Pope ſitting there as Lord and Maſter, dictating lawes <hi>ad libitum:</hi>
+               <note place="margin">Par. in Apol. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.11.8.</note> this ſoule-bondage is the ſoa<g ref="char:EOLhyphen"/>reſt bondage: the rigour of <hi>Egypts</hi> cruelty was but about two hundred twenty five yeares, but <hi>Romes</hi> is as long as the raigne of the Beaſt: the Antichriſtian Rebels in Ireland braining young infants, ripping up women with child, their ſhe-butchers with their long cut-throat knives by their ſides, putting to the ſword ſo many thouſand Proteſtants in one Province in one moneth, are bloody demonſtrations of <hi>Romes</hi> cruelty.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, all that Iſrael contended for with the Egypti<g ref="char:EOLhyphen"/>ans, was Religion and Liberties. Let us go to hold a Feaſt,
+<note place="margin">Exod. 5.1.3.</note> and to offer Sacrifice to the Lord our God, that is the quarrell of Religion; they groaned under the heavie iron yoake of bondage, longed to have that taken off; that is the quarrell of Liberties. Our Religion and Liber<g ref="char:EOLhyphen"/>ties are ſetled by the lawes of the Land, not ſo Iſraels in Egypt: and therefore the Antichriſtian party in their attempts to wreſt them from us, are more unjuſt and cruell then of old was Egypt. Had <hi>Moſes</hi> and <hi>Aaron</hi> quitted their Religion and Liberties, all the quarrell be<g ref="char:EOLhyphen"/>tween Iſrael and Egypt had been ended: and would our Lords and Commons now at length, after ſerious conſul<g ref="char:EOLhyphen"/>tation, and mature deliberation, reſolve for themſelves and all the Kingdome to imbrace any Religion, and ſub<g ref="char:EOLhyphen"/>mit to any way of Civill Government, which a Malig<g ref="char:EOLhyphen"/>nant Jeſuited Councell (too nigh the Throne) would tender or impoſe; would the Proteſtant party in City and Countries conclude upon it to <hi>make all their wils</hi> and to leave no other Legacies to their children and poſterity, but <hi>Popery and Slavery:</hi> upon theſe termes we might have peace preſently; even our bellies full.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fifthly, the way of Egypts oppreſſing Iſrael was by
+<pb n="6" facs="tcp:111129:9"/>ſecret ſubtilties and open hoſtilities, <hi>Come on, ſay they, let us deale wiſely with them
+<note n="a" place="margin">Exod. 1.10.</note>:</hi> there is ſubtilty, they fell upon them but with all their ſtrength, <hi>even all the Chari<g ref="char:EOLhyphen"/>ots of Egypt;</hi>
+               <note n="b" place="margin">Exod. 14.7.</note> there's hoſtility: and ſurely the Egyptian ſpirits amongſt us are wiſe in their generations, and have as many charets as poſſible they can get for love or money, want no counſell, or ſtrength, with which men or devills, Rome or Hell, knowes how to furniſh them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> Sixthly, Egypts greateſt plague of all, was unſeen, un<g ref="char:EOLhyphen"/>ſelt, unlamented, to wit, <hi>hardneſſe of heart,</hi> and impe<g ref="char:EOLhyphen"/>nitency; though <hi>Moſes</hi> and <hi>Aaron</hi> held out a cleer light for conviction, though ſigns and wonders were wrought before them, and plagues from heaven heapt upon them, yet <hi>hardned they their hearts againſt God</hi> and his people, and would not let Iſrael goe: Our Preſſes and Pulpits have held out a light ſatisfactory to all, but ſuch as ſhut their eies, and will not ſee, but ſuch as the God of this world hath blinded; our Parliamentary Worthies have <hi>declared,</hi> and <hi>declared,</hi> yea God himſelf hath <hi>de<g ref="char:EOLhyphen"/>clared</hi> againſt Egypt, and for Iſrael, by his diſcovery of plots, by the riſing of well affected ſpirits in this, and the neighbour Nation, and that according to promiſe, <hi>Behold,
+<note place="margin">Numb. 23.24.</note> the people ſhall riſe up as a great Lyon, and lift up himſelf as a young Lyon, he ſhall not lye down untill he eat of the prey, and drink the blood of the ſlaine;</hi> by wonderfull delive<g ref="char:EOLhyphen"/>rances and victories in the days of battel: yet who among all the Malignant Pack repents him of his evill ways, ſaying, What have I done? Some indeed repent of their facts, who of their faults? ſome turne up and down, from ſide to ſide, upon carnall, felfiſh principles, as a doore upon the hinges, but who goes out and weeps bitterly?
+<note place="margin">Rev. 16.10, 11.</note> When the <hi>fifth Angell powred out his viall up<g ref="char:EOLhyphen"/>on the ſeat of the beast, and his kingdome was full of dark<g ref="char:EOLhyphen"/>neſſe, they gnawed their tongues for pain, and blaſphemed the God of heaven, becauſe of their pains and their ſores, and repen<g ref="char:EOLhyphen"/>ted not of their deeds;</hi> and it argues that the troublers of
+<pb n="7" facs="tcp:111129:9"/>Iſrael are animated and acted by the ſpirit of the Beaſt, becauſe though they fret and fume, rage and rave, yet they alſo repent not of their deeds: Among many of them, ſcarce appears the honeſty of <hi>Achan,</hi> of <hi>Judas, confeſ<g ref="char:EOLhyphen"/>ſing and giving glory to God?</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> Laſtly, The fatall ſtroak upon Egypt was the <hi>drowning of them in the Red ſea:</hi>
+               <note place="margin">Exod. 1. laſt.</note> their deſign was to <hi>have drowned the male children in the rever,</hi> yea all Iſrael, by forcing them into the ſea; but by a miracle of mercy <hi>Iſrael</hi> was delive<g ref="char:EOLhyphen"/>red, and by the
+<note n="c" place="margin">In quo pec<g ref="char:EOLhyphen"/>carunt, in eo<g ref="char:EOLhyphen"/>dem plectun<g ref="char:EOLhyphen"/>tur.</note> wiſdome of divine Juſtice, the Egyp<g ref="char:EOLhyphen"/>tians were overwhelmed; and then
+<note n="e" place="margin">Exod. 15.1 2.</note> 
+               <hi>Moſes and all Iſ<g ref="char:EOLhyphen"/>rael ſing a ſong unto the Lord:</hi> Even ſo
+<note n="f" place="margin">Rev. 14.8.</note> 
+               <hi>Babylon ſhall fall,</hi> and that <hi>as a great
+<note n="g" place="margin">Rev. 18.21.</note> milſtone caſt into the ſea,</hi> and then all
+<note n="h" place="margin">Rev. 15.2, 3.</note> 
+               <hi>Iſrael</hi> of God ſhall <hi>ſtand, upon the ſea of glaſſe,</hi> to wit,
+<note n="d" place="margin">Exod. 14.</note> trample Antichriſtian powers (which though many, as a ſea of waters, yet are frayle, and brittle as the glaſſe) un<g ref="char:EOLhyphen"/>der their feet, having <hi>the Harpes of God</hi> in their hands, and <hi>and the ſong of Moſes and of the Lamb</hi> in their mouthes, ſay<g ref="char:EOLhyphen"/>ing, <hi>Great and marvellous are thy works, Lord God almighty, juſt and true are thy wayes thou King of Saints, &amp;c.</hi> Thus, as in a paire of Indentures, cut anſwers cut, and as in the wa<g ref="char:EOLhyphen"/>ter face anſwers face, ſo Rome anſwers Egypt, our ene<g ref="char:EOLhyphen"/>mies. <hi>Iſraels.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſer. </seg>2</label> The ſecond obſervation propounded, was, <hi>that Iſraels enemies have a Rock, their Rock;</hi> yet it is but a creature<g ref="char:EOLhyphen"/>rock, an imaginary rock:
+<note n="i" place="margin">Prov. 18.11.</note> 
+               <hi>The rich mans wealth is his ſtrong city, and as a high wall in his conceipt.</hi>
+            </p>
+            <p>Their creature-rocks are various, for methods ſake let me thus rank them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, the enemy hath creature-rocks of Gods making, but their Idolizing, men and horſes, they truſt in men: be<g ref="char:EOLhyphen"/>cauſe they are many, witty, mighty; the deluded multi<g ref="char:EOLhyphen"/>tudes of men and women in the world,
+<note place="margin">Rev. 17.15.</note> make up the <hi>many waters whereon the Whore ſits,</hi> to wit <hi>people and multitudes and nations, and tongues,</hi> yea all that are ingaged by Antichriſt againſt Chriſt; again, becauſe they are <hi>witty,</hi> the wiſe Statiſt, the deep braind <hi>Achitophel,</hi> and the ſpirit in the wheeles,
+<pb n="8" facs="tcp:111129:10"/>is the ſubtile Jeſuite, yet farther, becauſe they are <hi>mighty,</hi> mighty Gentry, mighty Nobles, and the mighty ſhadow of the empty name of abuſed Soveraignty. Adde here<g ref="char:EOLhyphen"/>unto allies, confederates, at home or abroad, (as <hi>Ephraim</hi> of old went to the Aſſyrian,
+<note place="margin">Hoſea 5.13.</note> and ſent to King <hi>Jareb</hi>) take in the Papiſt, even to the Frier, and the Nun, (who now ſleep not in their cells and cloyſters) the Prelate, the De<g ref="char:EOLhyphen"/>linquent, the prophane, the formaliſt, yea the Welch and Iriſh, and they all drive on the ſame Catholick deſign, though upon ſeverall grounds: ſome perhaps (I hope I ſpeak low enough, but <hi>ſome</hi> and <hi>perhaps</hi>) of our broken No<g ref="char:EOLhyphen"/>bles and decayed Gentry, having drunk, or diced, or drabd away their ancient demeanes, hope to raiſe their Houſes again by ſpoyle and plunder. The Papiſt is carried by a blind zeale, and the bloody principles of his Religion; the Prelate by his pride and avarice; the guilty Delinquent by the feares of Juſtice; the prophane and formaliſt, by their impatience of bearing Chriſts ſpirituall yoak in go<g ref="char:EOLhyphen"/>vernment and worſhip; the poor Welch it may be carryed away by hopes of pay and booties, and the Cannibal-Iriſh by delights in their trade of blood: thus <hi>are they confederate againſt thee O Iſrael, the
+<note n="k" place="margin">Pſ. 83.5.6.7.</note> Tabernacles of Edom, and the Iſhmaelites, of Moab, and the Hagarens, Gebal and Ammon, and Amalck, the Philiſtmes, with the inhabi<g ref="char:EOLhyphen"/>tants of Tyre, &amp;c.</hi> Theſe are the <hi>Ploughers</hi> that plough <hi>upon thy back, and make long furrowes;</hi> the plough of perſecution, that goes; the hands of evill Counſellors hold and guide it, the cords of powers and policies are faſtened to it, the horſe in the Geeres are the brutiſh people made ſouldiers, theſe draw the plough though they ſweat and bleed for it, have many a laſh in their work and ſhort provender after; the drivers, with a whip over them, are ſurious Com<g ref="char:EOLhyphen"/>manders, and ſometimes a Cavallier Prieſt comes up with Ghoſtly counſell, ſtroaks them, claps them on the back to hearten them; and all the while the owner of the plough the devill, or the Pope his Bayliffe, walkes by to ſee the work goe on; thus the plough works all the yeare long:
+<pb n="9" facs="tcp:111129:10"/>
+               <note n="l" place="margin">Pſ. 129.3, 4.</note> 
+               <hi>The righteous Lord cut aſunder the cords of theſe wicked ones.</hi>
+            </p>
+            <p>Again, the enemies <hi>ſtay themſelves upon</hi> a Rock of <hi>Hor<g ref="char:EOLhyphen"/>ſes, and Horſemen, becauſe they are ſtrong; though,</hi> when all is done, <hi>the Egyptians are men, and not God;
+<note place="margin">Iſaiah 31.1.3.</note> and their horſes fleſh, and not ſpirit.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, the enemy hath a creature-rock of mans making, their ſtrong Townes, Forts, Caſtles by land, and ſhips by ſea, gold and ſilver are lookt upon as a high wal, monies either forced away from owners at home, or beg<g ref="char:EOLhyphen"/>ged or borrowed abroad. Again, they truſt to their Idoll Gods of their own making alſo,
+<note place="margin">Hoſea 14.3.</note> and ſay <hi>to the workes of their hands, Save us.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, the enemy hath another creature-rock (if I may ſo phraſe it) of the Devils making, for he truſts in his very ſinnes, and ſtrengthens himſelfe in his wicked<g ref="char:EOLhyphen"/>neſſe:
+<note n="*" place="margin">Pſal. 52.7.</note> ſo <hi>Doeg</hi> the Edomite.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Their firſt rock of this kind are <hi>lyes</hi> and <hi>deluſions;</hi> the Devill was a lying ſpirit in the mouth of the falſe Pro<g ref="char:EOLhyphen"/>phets, <hi>Ahab</hi> truſted to their lies,
+<note place="margin">1 King. 22.</note> ingaged himſelfe in an unlawfull warre, and it was his ruine; Doe they not truſt upon plauſible Declarations, and lying Proteſtations, which have Religion, Lawes, and Liberties in the Letter, but not in the Spirit of them? and upon <hi>Propoſitions,</hi> which have <hi>Peace in the mouth,</hi> but <hi>Warre in the heart?</hi> Nay, they truſt to a monſtrous lie, ſuch a one as I thinke our fathers never heard of, a new upſtart Anti-Parlia<g ref="char:EOLhyphen"/>ment; this is a ſtrange Sunne riſen in our Hemiſpheare, not to inlighten, but to darken our Horizon; yet wiſe men (Beloved) looke upon the true Sunne, which ſhines here in its proper Orbe, and upon that as a Meteor, a Parelius, the Apparition of a Sunne in a thick watery cloud, yet ſuch a one is ominous, portends raine and ſtormes na<g ref="char:EOLhyphen"/>turally, and foretels clandeſtine conſpiracies for the trou<g ref="char:EOLhyphen"/>bling the peace of Kingdomes through warres and commotions, by divine ordination, ſupernaturally. Thus ſome
+<note n="*" place="margin">Magirus.</note> Philoſophers; but here is the difference between
+<pb n="10" facs="tcp:111129:11"/>the naturall <hi>Parelius</hi> in the cloud, and our unnaturall <hi>Pa<g ref="char:EOLhyphen"/>relius</hi> in the State, that what the one portends onely, the other acts; powres downe ſtormes of bloud, plots againſt, and troubles <hi>Iſrael.</hi> I might tell you of another lie much truſted to, the lie of a <hi>bloudy Peace in Ireland;</hi> and all theſe magick lying wonders are but to blind the eyes of the people, that <hi>Moſes</hi> and <hi>Aaron</hi> might be the leſſe regarded by them; Jugler-like, to raiſe a duſt or a miſt to act their feats in, or Philiſtim-like, to pull out the eyes of <hi>Sampſon</hi> (for the people are the <hi>Sampſon,</hi> the ſtrength of a Nation) that ſo they may make him to grind in any of their mils; or if you will, high-way-cutter-like, to ſhooe their horſes backward, that when by the tread of the foot you thinke they are gone Eaſt, the truth is, they are running full ſpeed clean another way.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> There is another ſinne the enemy truſts unto, <hi>oaths and perjuries;</hi> oaths doe but guild over lies, and perjuries help to ſtrengthen forgeries.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> They truſt to their ſinne of <hi>oppreſſion;</hi> this was one of the rocks of <hi>Egypt,</hi>
+               <note place="margin">1 ſal. 62.10.</note> Keep <hi>Iſrael</hi> poore and low enough, and then you may doe with them what you pleaſe; and this is <hi>Romes</hi> Machiavilian policy to this very day.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> The enemy relies much upon his art and skill in the <hi>in<g ref="char:EOLhyphen"/>toxication of Princes</hi> and great men <hi>with a cup of fornica<g ref="char:EOLhyphen"/>tions,</hi> thereby holding them up in their ingagements a<g ref="char:EOLhyphen"/>gainſt <hi>Iſrael:</hi> this was the magick ſleight of <hi>Egypt,</hi> to blow up, and keep alive the flame of <hi>Pharaoh's</hi> indigna<g ref="char:EOLhyphen"/>tion, though he in himſelfe had many inclinations to let <hi>Iſrael</hi> goe, he muſt chide <hi>Moſes</hi> and <hi>Aaron,</hi> even when they brought the meſſage of the Lord unto him; theſe wily Sorcerers held <hi>Pharaoh</hi> captive, and by his meanes, <hi>Iſrael.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Laſtly, there is yet one ſinne more they much leane upon,
+<note place="margin">Num. 22.</note> 
+               <hi>Magick and Witchcraft; Balaam</hi> muſt be hired to curſe <hi>Iſrael:</hi> and if Witches and Wizards have any power in their black Art, now is a time for them to drive a full trade, they may have worke enough if they will
+<pb n="11" facs="tcp:111129:11"/>worke, either for love or money, for feare, hopes, or hatred; but let not this trouble thee O <hi>Iſrael,</hi> for,
+<note place="margin">Numb. 23.23</note> 
+               <hi>ſurely there is no inchantment againſt</hi> Jacob, <hi>neither is there any divination againſt</hi> Iſrael.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>3</label> The third obſervation was, that <hi>Iſrael hath a rock alſo.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, God; in his name and nature, <hi>mercifull and gra<g ref="char:EOLhyphen"/>cious, long-ſuffering, and abundant in goodneſſe and truth,
+<note place="margin">Exod. 34.6, 7. <hi>Deus &amp; natura &amp; foedere gra<g ref="char:EOLhyphen"/>tiae ad benefa<g ref="char:EOLhyphen"/>ciendum procli<g ref="char:EOLhyphen"/>vis.</hi> Jun. <hi>in Annot.</hi> Matth. 16.18.</note> keeping mercy for thouſands, forgiving iniquity, and tranſgreſ<g ref="char:EOLhyphen"/>ſion, and ſinne, &amp;c.</hi> God in Chriſt, God in Covenant, Free-Grace in God the Father, full merit in Chriſt the Sonne, and powerfull operation in God the holy Ghoſt make up a rock ſure and ſtedfaſt for <hi>Iſrael</hi> to build upon; <hi>againſt which the gates of hell ſhall not prevaile; the gates,</hi> where the Courts of Guard are kept, and the war-like ſtrength of a City lies; <hi>the gates,</hi> where Courts of Ju<g ref="char:EOLhyphen"/>ſtice are kept, in which wiſdome and counſell lies, ſo that all the powers and policies of hell are too weake for this rock of <hi>Iſrael.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, God in his Eſſence, Properties, Attributes,
+<note place="margin">Gen. 17.8.</note> is all <hi>Iſraels, I will be their God,</hi> makes over all that God hath to <hi>Iſrael.</hi> God hath a heart of mercy to pity <hi>Iſrael,</hi> a head of wiſdome to adviſe for <hi>Iſrael,</hi> a hand of power to doe any thing for the good of <hi>Iſrael.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, God in promiſes of all kinds, juſtifying promiſes, ſanctifying promiſes, perſevering, glorifying promiſes; promiſes that concerne the fall of <hi>Babylon,</hi> and the riſe of <hi>Zions</hi> glory, ſhewes yet further ſtrength in this rock of <hi>Iſrael:</hi> behold, and wonder at the graci<g ref="char:EOLhyphen"/>ous condeſcenſion of the great God, laying upon himſelfe voluntary bonds and obligations,
+<note place="margin">Ligatum tene<g ref="char:EOLhyphen"/>mus Deum.</note> for the good and com<g ref="char:EOLhyphen"/>fort of his <hi>Iſrael;</hi> the Creator making himſelfe a debtor to his poore beleeving creatures.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, God in providence and providentiall ex<g ref="char:EOLhyphen"/>periments, is another peece of this rock of <hi>Iſrael;</hi> that providence which pitied <hi>England</hi> heatheniſh, and made it Chriſtian, which pitied <hi>England</hi> popiſh, and refor<g ref="char:EOLhyphen"/>med
+<pb n="12" facs="tcp:111129:12"/>it; that providence that appeared in <hi>Eighty eight,</hi> and againſt the <hi>Powder-treaſon,</hi> and of late, at <hi>Keinton, Brainford, Gloceſter, Newbery, &amp;c.</hi> that providence which hath brought us out of <hi>Egypt,</hi> will bring us into <hi>Canaan,</hi> if our unbeleeving, murmuring, ingratefull, or ſelfe-ſeeking hearts, make not our carcaſſes to fall in the wil<g ref="char:EOLhyphen"/>derneſſe;
+<note place="margin">Pſal. 22.1.</note> let us take up <hi>Davids</hi> arguing, <hi>Our fathers truſted in thee, and thou didſt deliver them;</hi> and the reaſo<g ref="char:EOLhyphen"/>ning of <hi>Mancahs</hi> wife,
+<note place="margin">Judges 13.23.</note> 
+               <hi>If the Lord were pleaſed to kill us, he would not have received a burnt-offering, and a meat of<g ref="char:EOLhyphen"/>fering at our hands; neither would he have ſhewed us all theſe things, &amp;c.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>4</label> The fourth obſervation which lies clearly and expreſſely in the Text, is, that <hi>There is no compariſon between the enemies rock, and the rock of</hi> Iſrael; <hi>their rock is not as our rock.</hi> Firſt, compare the Idols of the enemies with the God of <hi>Iſrael,</hi> and you will find,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt,
+<note place="margin">
+                  <p>Henr. Wol<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. in. v. 4.</p>
+                  <p>
+                     <hi>Rupes non arte aut induſtria hominum, ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d ſuapt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> natura co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſiſtit.</hi>
+                  </p>
+                  <p>
+                     <hi>Qui colit, ille facit.</hi>
+                  </p>
+                  <p>
+                     <hi>Idem ibidem. Deum n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>c homi<g ref="char:EOLhyphen"/>num aſtutia ſu<g ref="char:EOLhyphen"/>perare poteſt, nec potentia ſrange<g ref="char:EOLhyphen"/>re, id<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> à ſeipſo. Ferus declam. in Deut. Deus noſter iniquita<g ref="char:EOLhyphen"/>tem odit, &amp; de<g ref="char:EOLhyphen"/>ſerentas ſe de. ſerit.</hi>
+                  </p>
+                  <p>
+                     <hi>Toſtat. in locum</hi> Our enemies Judges, that is, <hi>judicii divini executores. Corn. à Lapide, Inulta ſinunt ſuorum cultorum peccata. Piſcat in loc. non vindicant fui contemptum, quippe nec poſſunt.</hi>
+                  </p>
+               </note> that our rock hath <hi>his being from himſelfe, his name is, I AM:</hi> Idols are made by the Art and induſtry of men, the hewer cuts downe a tree, and of one peece of wood makes a fire, and of another makes a god; the Car<g ref="char:EOLhyphen"/>ver, and the Painter, and the worſhipper, makes the Idoll.</p>
+            <p>Secondly, our rock is <hi>ſolid, immutable</hi> in himſelfe, in his Decrees; his power breaks all powers, his wiſdome goes beyond all policies; whereas Idol-gods, you may breake them in peeces, grind them to powder, and make Idolaters to eate and drinke downe thoſe gods they have worſhipped.</p>
+            <p>Thirdly, our rock hates iniquity, and doth puniſh it in any; the enemies ſee it, for often God makes them to be Judges over <hi>Iſrael,</hi> to wit, the executioners of di<g ref="char:EOLhyphen"/>vine judgements, and ſome thinke this is the truth alſo which the Text points at. And in this ſenſe the Aſſy<g ref="char:EOLhyphen"/>rians, Chaldeans, Romans, were, as enemies unto, ſo Jud<g ref="char:EOLhyphen"/>ges over <hi>Iſrael</hi> *. But Idol-gods neither hate ſin, nor
+<pb n="13" facs="tcp:111129:12"/>puniſh ſin in any; and the reaſon is given,
+<note place="margin">
+                  <p>
+                     <hi>Cornel. è La<g ref="char:EOLhyphen"/>pid. Imp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tentes ſunt ut alicui benefaciant aut malefaciant.</hi>
+                  </p>
+                  <p>
+                     <hi>Rabanus Mau<g ref="char:EOLhyphen"/>rus lib.</hi> 4. <hi>in Deut. Idola f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l<g ref="char:EOLhyphen"/>ſa, inutilia.</hi>
+                  </p>
+               </note> from the ig<g ref="char:EOLhyphen"/>norance and impotency of Idols.</p>
+            <p>Fourthly, our rock is a <hi>God of truth and goodneſſe,</hi> the Idoll rocks are rocks of <hi>lies and vanities,</hi> no way benefi<g ref="char:EOLhyphen"/>ciall to their deluded worſhippers.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, compare all the enemies <hi>creature-rocks</hi> what<g ref="char:EOLhyphen"/>ſoever, with <hi>Iſraels Creator-rock;</hi> their <hi>imaginary rock,</hi> with <hi>Iſraels reall rock;</hi> you will ſee the tranſcendent excellen<g ref="char:EOLhyphen"/>cy of this rock of <hi>Iſrael.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, our rock is a <hi>foundation-rock</hi> to build upon;
+<note place="margin">Mart. 7.24, 25.</note> the <hi>wiſe man,</hi> the beleever builds his hopes and happineſſe up<g ref="char:EOLhyphen"/>on this rock, and <hi>when the raine deſcends, the floud comes, and the winds blow, and beat upon his houſe, yet it fals not, becauſe it is founded upon a rock;</hi> but <hi>the foole,</hi> the un<g ref="char:EOLhyphen"/>beleever, the formaliſt, though he ſeeme to raiſe a goodly frame, a faire pile of building; yet when the ſtorme comes, <hi>the houſe fals, and great is the fall of it,</hi>
+               <note place="margin">Verſe 26, 27. Job 39.27, 28. alluded to.</note> and all be<g ref="char:EOLhyphen"/>cauſe it was not <hi>built on the rock, but on the ſand.</hi> The Eagle-like Chriſtian gets upon the wing by beleeving, and ſores aloft in heavenly meditations and affections, and <hi>makes his neſt on high, he dwels, and abides on the rock, upon the cragge of therock, and the ſtrong place.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, our rock is a <hi>ſheltering rock,</hi> ſecuring us from any, from all our enemies;
+<note place="margin">Pſal. 94.22.</note> 
+               <hi>David</hi> hides himſelfe in a rock from <hi>Saul,</hi> and he cries, <hi>the Lord is my defence,
+<note place="margin">Pſal. 104.18.</note> and my God is the rock of my refuge:</hi> the rocks naturall are a <hi>refuge for the Conies;</hi> if the Dog or danger appeare, they pop into their holes, and ſo are ſafe;
+<note place="margin">Prov. 18.10. Hen. Wolphi. <hi>tutum eſt omni<g ref="char:EOLhyphen"/>bus qui in eam confugiunt prae<g ref="char:EOLhyphen"/>ſidium quò nec miles aſcendere, nec belli tormi<g ref="char:EOLhyphen"/>na trahi puſſunt Leigh. Crit. ſac. in vet. Teſt.</hi> Iſa. 33.16.</note> and this ſpirituall rock is a refuge for beleevers, when dan<g ref="char:EOLhyphen"/>gers and feares come, they earth and burrough themſelves in Chriſt, and <hi>the name of the Lord is their strong Tower, they runne into it, and are ſafe.</hi> God is a <hi>ſtrong rock</hi> indeed, no breaking through it; an <hi>high rock,</hi> no climbing up, or ſcaling it, no drawing up of Cannon, or warlike engins againſt it; he is a <hi>ſure rock,</hi> and ſome fancie it that our Engliſh word <hi>ſure</hi> is borrowed from the Hebrew word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a rock; thus <hi>Iſrael</hi> dwels on high,
+<pb n="14" facs="tcp:111129:13"/>and his place of defence is the munitions of the rocks, &amp;c.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, our rock is a <hi>ſhadowing rock,</hi> from the ſcorch<g ref="char:EOLhyphen"/>ing heate of divine indignation, and from the dazling glory of Gods eſſentiall Majeſty: ſo in the propheſie,
+<note n="*" place="margin">Iſa 32.2. Exod. 33.18.20. alluded to.</note> A <hi>man,</hi> to wit, Chriſt, <hi>ſhall be as the ſhadow of a great rock in a weary land. Moſes</hi> ſaith to God, <hi>Shew me thy glory;</hi> God anſwereth, <hi>thou canſt not ſee my face, for there ſhall no man ſee me, and live; but, behold, ſaith God, I will put thee in the clefts of the rock, and cover thee with my hand, and thou ſhalt ſee my back-parts, &amp;c.</hi> God puts beleevers into Chriſt, as into the clefts of the rock, in him they ſee the God<g ref="char:EOLhyphen"/>head vailed, they behold the back-parts of God and live.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, our rock is <hi>a watering rock,</hi> to coole the fired, to quench the thirſty, to cleanſe the defiled, to revive the fainting ſoule that comes unto him.
+<note place="margin">Exod. 17. Numb. 20.</note> We read of <hi>Iſrael</hi> wrangling with <hi>Moſes</hi> for water twice; and of <hi>Moſes</hi> ſmiting the rock twice; firſt in <hi>Cadeſh,</hi> in the ſecond moneth, after <hi>Iſraels</hi> going out of <hi>Egypt,</hi> and the other in <hi>Rephidim,</hi> in the ſeventh moneth; the waters that flowed upon the firſt ſmiting, gave preſent refreſhing, and then vaniſhed, but the waters which guſhed out of the rock in <hi>Rephidim,</hi> continued and followed the Camp of <hi>Iſrael</hi> in all their march; and <hi>Iſrael,</hi> where ever they pitcht their Tents, made pits to receive and hold thoſe waters;
+<note place="margin">Numb. 21.18. <hi>Petrae aquati<g ref="char:EOLhyphen"/>lem ſequelam,</hi> as <hi>Tertullian. lib. de Patient.</hi> 1 Cor. 10.4.</note> yea, the Princes digged the Well, the Nobles of the people digged it; and <hi>Iſrael</hi> dranke of the rock that followed them: And this rock was ſpiritually a type of Chriſt, ſo the Apoſtle; he was the rock ſmitten in his death and paſſion, from him the waters of life flowed, and flow after all the Camps of <hi>Iſrael,</hi> in all places, in all ages: we muſt make pits, and digge Wels alſo; get hum<g ref="char:EOLhyphen"/>ble hearts, and beleeving ſpirits, to hold theſe waters in. Some ancients fancie it that <hi>Iſrael</hi> took this rock of <hi>Re<g ref="char:EOLhyphen"/>phidim</hi> along with them, and as often as they pleaſed, fetcht water out of it; it is the fiction of ſome Rabbins and Schoolemen, that the rock was contracted into a lit<g ref="char:EOLhyphen"/>tle flint, which <hi>Miriam</hi> carried up and downe with her
+<pb n="15" facs="tcp:111129:13"/>in her boſom: all this is but fabulous, yet there is a truth in this; that every beleeving Iſraelite carries the rock Chriſt in his breaſt, and boſome; when he acts faith, he ſmites the rock, and then the waters of grace and peace flow upon him in all abundance. <hi>Iſrael</hi> was in great ſtraits, ready to periſh for want of waters, and waters were not to be gotten in all the wilderneſſe; had it not beene for the rock, all <hi>Iſrael</hi> had periſhed. Even ſuch is thy caſe O man, thou didſt need a Redeemer, couldſt find no wa<g ref="char:EOLhyphen"/>ter in the wilderneſſe, no ſalvation in thy ſelfe, or in the creatures; and had it not beene for the rock Chriſt, all mankind had periſhed, and that eternally.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fifthly, our rock is a feeding rock to every hungry ſoule that comes unto him; the Lord made <hi>Iſrael</hi> to ſuck honey out of the rock, and oyle out of the flinty rock:
+<note place="margin">Verſe 13.</note> honey, that is from the neſts of Bees hived in the rock, or elſe the Lord fed them with Dates from the Palme-trees, which grew among the rocks, and with ſuch kind of fruits as ſweet as honey; and he fed them with oyle from the Olive trees; thus God fed the beleeving Iſrae<g ref="char:EOLhyphen"/>lite, and was willing to feed him to the full,
+<note place="margin">Pſal. 81. laſt.</note> and with ho<g ref="char:EOLhyphen"/>ney out of the rock to ſatisfie him: And how is <hi>Iſrael</hi> fed ſtill, but out of the rock Chriſt? fed, by the word, the Goſpel, which is ſweeter then the honey, or the ho<g ref="char:EOLhyphen"/>ney-comb; fed, with the graces of Gods ſpirit, faith, love, evangelicall obedience, as oyle from the two Olive<g ref="char:EOLhyphen"/>trees in <hi>Zacharies</hi> viſion. Nay, more yet,
+<note place="margin">Zach. 4 12. John 6.55.</note> 
+               <hi>Iſrael</hi> is fed with the bread of life, the Lord Chriſt, whoſe fleſh is meat indeed, and whoſe bloud is drink indeed.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> Laſtly, our rock is a rock of ages; <hi>Trust in the Lord for ever, for in the Lord Jehovah is everlaſting ſtrength;</hi>
+               <note place="margin">Iſa. 26.4.</note> or as in the Hebrew, <hi>a rock of Ages:</hi> all the rocks of ene<g ref="char:EOLhyphen"/>mies are ſandy gravelly rocks, ſoone waſhed away, and crumbled into nothing: this rock is ſolid, and laſts to e<g ref="char:EOLhyphen"/>ternity; and this crownes all the reſt, for this rock is a foundation-rock to eternity, a ſheltering-rock to eterni<g ref="char:EOLhyphen"/>ty, a ſhadowing-rock to eternity, a watering-rock, a fee<g ref="char:EOLhyphen"/>ding-rock
+<pb n="16" facs="tcp:111129:14"/>to eternity: eternity makes Heaven, Heaven; and the rock of <hi>Iſrael</hi> to be of tranſcendent excellency above all other rocks whatſoever.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>5</label> The fifth obſervation is but a proofe of the fourth, from the teſtimony of Adverſaries, <hi>even our enemies them<g ref="char:EOLhyphen"/>ſelves being Judges.</hi> I might make out this truth from ſacred Scriptures, and Eccleſiaſticall Hiſtories, and tell you how after the time of primitive perſecutions under the <hi>Roman</hi> Emperours,
+<note place="margin">
+                  <hi>Pareus in Apoc. capis.</hi> 6. <hi>verſ</hi> 4.</note> God raiſed up <hi>Conſtantius,</hi> who died at <hi>York Anno Dom.</hi> 310. and <hi>Conſtantine</hi> the great, heire of his Crowne and vertues:
+<note place="margin">
+                  <p>
+                     <hi>Euſeb. Pam. lib.</hi> 8. <hi>cap.</hi> 14.</p>
+                  <p>
+                     <hi>A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>g. de Civit. D<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>. A</hi> Theodo<g ref="char:EOLhyphen"/>cii <hi>partibus in adveſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ios ve<g ref="char:EOLhyphen"/>hemens ventus ibat, et non ſo<g ref="char:EOLhyphen"/>lum quaecunque in cos jacula<g ref="char:EOLhyphen"/>bantur concita<g ref="char:EOLhyphen"/>tiſſimèrapiebat, verùm etiam ipſorum tela in corum corpora retorquchat.</hi>
+                  </p>
+                  <p>
+                     <hi>Claudian. O ni<g ref="char:EOLhyphen"/>mium dilecte Deo, cui militat aether, Et conju<g ref="char:EOLhyphen"/>rati ve<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iunt ad claſſica venti.</hi> Numb. 23.19, 20, &amp;c.</p>
+               </note> I might tell you of the thundering Legion, and of <hi>Theodoſius,</hi> who fighting with <hi>Eugenius,</hi> a mighty wind aroſe, and beat back the darts into the enemies boſomes, in whom, as in many others, God ſhewed himſelfe a rock for <hi>Iſrael:</hi> but I will content my ſelfe with the teſtimonies, and open acknowledge<g ref="char:EOLhyphen"/>ments of adverſaries, which the Text points me to; we find their teſtimony ariſing from ſeverall grounds.</p>
+            <p>Firſt, from conviction of conſcience; hence, what <hi>Saul</hi> ſaid of <hi>David, Thou art more righteous then I,</hi> the ene<g ref="char:EOLhyphen"/>mies are forc'd to ſay of the God of <hi>David, Thou art wiſer then we,</hi> or our Idol-gods, and ſtronger then we, or all our rocks whatſoever; thus <hi>Balaam,</hi> though a cove<g ref="char:EOLhyphen"/>tous, curſed conjurer, <hi>God is not a man that he ſhould lie, nor the Sonne of man that he ſhould repent; hath he ſaid, and ſhall he not doe it? or hath he ſpoken, and ſhall he not make it good? the Lord his God is with-him, the ſhout of a King is among them, he hath, as it were, the ſtrength of an Vni<g ref="char:EOLhyphen"/>corne, &amp;c.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, from the terrors of God upon their ſpirits: ſo the <hi>Egyptians,</hi>
+               <note place="margin">Exod. 14.25.</note> when the Lord took off their Chariot wheeles, that they drave them heavily, they cried out, <hi>Fu<g ref="char:EOLhyphen"/>giamus,
+<note place="margin">1 Sam. 4.6, 7, 8.</note> fugiamus,</hi> let us flee from the face of <hi>Iſrael,</hi> for the Lord fighteth for them againſt the <hi>Egyptians.</hi> So the Philiſtins, when they heard that the Arke of the Lord was come into the Camp of <hi>Iſrael,</hi> they were afraid; for they ſaid, <hi>God is come into the Camp;</hi> And they ſaid, <hi>Woe
+<pb n="17" facs="tcp:111129:14"/>unto us;</hi> And againe, <hi>Woe unto us, who ſhall deliver us out of the hands of theſe mighty Gods? theſe are the Gods that ſmote the Egyptians with all the plagues in the Wilder<g ref="char:EOLhyphen"/>neſſe.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, from their miſerable experience: they daſh againſt this rock, and it breaks them in peeces; hence the men of <hi>Aſhd<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d,</hi>
+               <note place="margin">1 Sam. 5.7.</note> when they ſaw <hi>Dagon</hi> fall before the Arke, cryed out, <hi>The hand of the God of Iſrael is ſore up<g ref="char:EOLhyphen"/>on us, and upon Dagon our god.</hi> The enemy finds, that the God of <hi>Iſrael</hi> hath <hi>really,</hi> what theirs <hi>fictitiouſly;</hi> though woollen feet, yet iron hands: they feele his blowes to be waighty and terrible; and thus, that their rock is not as out Rock, the enemies themſelves are Jud<g ref="char:EOLhyphen"/>ges
+<note n="*" place="margin">
+                  <p>Calvin. <hi>Ex<g ref="char:EOLhyphen"/>perientia potius quam affectu judicant.</hi>
+                  </p>
+                  <p>Junius <hi>Annot. H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>c teſtimoniu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> in controverſiis bujuſmodimax<g ref="char:EOLhyphen"/>imt eſſe, ut par eſt, ſolct.</hi>
+                  </p>
+                  <p>Calvin. <hi>in loc.</hi> Cornel. <hi>à Lap. in loc. Qui poten tiam juſtitiam<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Dei noſtri prae ſuis Idolis ex<g ref="char:EOLhyphen"/>perti ſunt, &amp;c.</hi>
+                  </p>
+               </note>; not from love, and affection, but from ſenſe, and experience; yet in a controverſie of this nature, the te<g ref="char:EOLhyphen"/>ſtimony of an adverſarie is of great ſtrength and validi<g ref="char:EOLhyphen"/>ty, and wreſts from an adverſe ſpirit, an acknowledge<g ref="char:EOLhyphen"/>ment of the power and juſtice of God, above what they fancie to be in their Idols. Having thus laid a Do<g ref="char:EOLhyphen"/>ctrinall foundation, let me crave your patience, to ſum up all together in a joynt Application.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋse. </seg>1</label> Firſt, what hath beene delivered may informe us.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, whence <hi>Iſraels</hi> ſafety ariſeth in evill times; from <hi>Iſraels</hi> ſtanding on a rock, on a high rock, above all the winds, and waves of boyſterous, and menacing calamities: the perplexed enemies run as in a ſtorme, from hedge to hedge, from buſh to buſh, from friend to friend, from plot to plot, but the tempeſt beats through all, and ſoakes in upon them: but <hi>Iſrael</hi> then is in a ſtate of ſafety, not onely <hi>on</hi> a rock, (for then poſſibly they might be beaten off by winds, and weather) but <hi>in</hi> a rock, yea, in a ſtrong Tower within a rock, <hi>The name of the Lord is a ſtrong Tower, the righteous runne into it, and are ſafe.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Againe, this diſcovers the folly of inſulting enemies, they ſee weak <hi>Iſrael,</hi> but not the ſtrong rock of <hi>Iſrael;</hi> were their eyes opened, to ſee the thouſands of fiery Cha<g ref="char:EOLhyphen"/>riots
+<pb n="18" facs="tcp:111129:15"/>upon the Mountaines, they would ſay, there were more for <hi>Iſrael,</hi> then againſt it; the Arke is with <hi>Iſrael</hi> and where the Arke goes,
+<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sam cap. 5.</note> there goes victory; and if the Philiſtins doe, by a permiſſive providence, take the Arke and runne away with it, the curſe of God followes them; they ſet it in the houſe of <hi>Dagon,</hi> and then down fals <hi>Dagon;</hi> they carry it from <hi>Aſhdod,</hi> to <hi>Gath,</hi> from <hi>Gath,</hi> to <hi>Ekron;</hi> but ſtill the plague of <hi>Emrods</hi> vexeth them, and a very great deſtructioin fals upon the place where the Arke comes; and the Philiſtins are never at quiet, till they have returned the Arke back again to <hi>Iſ<g ref="char:EOLhyphen"/>rael.
+<note place="margin">Pſal. 137 7. Obad. ver. 3.4.</note> Edom</hi> cries againſt <hi>Jeruſalem, Raſe it, raſe it even to the foundations thereof:</hi> but what ſaith the rock of <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> againſt <hi>Edom? The pride of thine heart hath deceived thee, O thou that dwelleſt in the clefts of the rocks, whoſe habitation is high; that ſaiſt in thy heart, Who ſhall bring me downe to the ground? though thou exalt thy ſelfe as the Eagle, and though thou ſet thy neſt among the Stars, thence will I bring thee downe, ſaith the Lord.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Laſtly, this ſhewes whence it is, that <hi>Iſrael</hi> flies, or fals at any time before their enemies;
+<note place="margin">Ferus <hi>Declam. in Deut. Deus vend<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t binc quod pau<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i ſaepe multos ſupereat imo etiam quod Turcae ſup<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ra<g ref="char:EOLhyphen"/>runt Chriſtiani.</hi> Deut. 32.30.</note> that a few men of <hi>Ai</hi> rout the thouſands of <hi>Iſrael;</hi> yea, that the very <hi>Turks</hi> over-run Chriſtians; it is, becauſe the rock of <hi>Iſrael</hi> forſakes <hi>Iſrael: How ſhould one chaſe a thouſand, and two put ten thouſand to flight, except their rock had ſold them, and the Lord had ſhut them up?</hi> the ſinne of <hi>Iſrael</hi> makes the God of <hi>Iſrael,</hi>
+               <note n="*" place="margin">Junius <hi>Alic<g ref="char:EOLhyphen"/>nis Do<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>inis ſubjecit.</hi>
+               </note> to ſell off <hi>Iſrael;</hi> to part, as it were, with his property in <hi>Iſrael,</hi> and to put them into the hands of enemies, to be ſeeming owners of them, and Lords over them: Yea, the Lord is forced to ſell his peo<g ref="char:EOLhyphen"/>ple for a thing of nought,
+<note place="margin">Pſal. 44.12.</note> as the Church complaines; God is as it were weary of his people, and puts them off, upon any tearmes;
+<note place="margin">God is ſaid not to ſhut up whe<g ref="char:cmbAbbrStroke">̄</g> not deliver his into the hands of enemies. Pſal 31.8. &amp;c.</note> the enemy never makes a purchaſe of <hi>Iſrael,</hi> till God ſels off <hi>Iſrael;</hi> the enemy may catch, and catch at <hi>Iſrael,</hi> but in vaine, till God gives up <hi>Iſrael</hi> into their hands; the enemy never captives <hi>Iſrael,</hi> till the Lord ſhuts up, and impriſons <hi>Iſrael,</hi> in the power of
+<pb n="19" facs="tcp:111129:15"/>the enemies: but why doth the rock forſake <hi>Iſrael?</hi> be<g ref="char:EOLhyphen"/>cauſe <hi>Iſrael</hi> forſakes his rock. It is but the dizzineſſe of our braines, to think that the rock leaves <hi>us,</hi> when indeed we leave <hi>that. Iſrael</hi> beleeves not that God will carry on his work, notwithſtanding all the ſignes and wonders wrought for <hi>Iſrael. Iſrael</hi> ſtoopes to a baſe compliance with <hi>Aſhur, Iſrael</hi> murmures for peace, as of old,
+<note place="margin">Numb. 14.</note> againſt <hi>Caleb</hi> and <hi>Joſhua,</hi> when they ſaw that the ſword muſt de<g ref="char:EOLhyphen"/>cide the controverſie between them and the Canaanites; We have a generation that are mad upon peace, any peace, rather then faile, the bloudy peace of <hi>Ireland;</hi> and that upon any termes, though they part with the Goſpel of peace, and the God of peace, to make the purchaſe. Be<g ref="char:EOLhyphen"/>loved, ſhould ſuch a degenerous ſpirit prevaile among thoſe that are intruſted with the great affaires of Church and State, (which the Lord forbid) then would the gene<g ref="char:EOLhyphen"/>ration of the faithfull ſay, with ſad hearts, and weeping eyes, come, let us pack up, and be gone, and farewell <hi>En<g ref="char:EOLhyphen"/>gland:</hi> and this ſhould be my propheſie,
+<note place="margin">Iſa. 17.9, 10.</note> 
+               <hi>There ſhall be great deſolation, becauſe thou haſt forgotten the God of thy ſalvation, and haſt not beene mindfull of the rock of thy ſtrength.</hi> Oh! it is a ſad thing to ſee the rebellion of a child conſtraine a loving father, to give up the child in<g ref="char:EOLhyphen"/>to the bloudy hands of an enemy inraged againſt child and father.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> In the ſecond place this may be for triall, whether or no, the rock of <hi>Iſrael</hi> be our rock. And this will be a ground of rejoycing, for property, and intereſt is the ground of comfort.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, this rock without us, if ours, breaks the rock within us; that naturall hardneſſe of heart, and rebel<g ref="char:EOLhyphen"/>lion of ſpirit againſt God; this rock turnes thy rock in<g ref="char:EOLhyphen"/>to a ſtanding water, to wit, thy hard heart,
+<note place="margin">Pſal. 114.8. alluded to.</note> into conſtant meltings, and mournings for ſinne; it turnes thy flint into a fountaine of waters: but if all the counſels of the word fall upon thy heart, as the ſeed upon the rock;
+<note place="margin">Luke 8.13. Jer. 5.3.</note> if God ſmite thee with a rod, and thou be not grieved;
+<pb n="20" facs="tcp:111129:16"/>yea, conſume thee, and yet thou refuſeſt to receive cor<g ref="char:EOLhyphen"/>rection; yea, makeſt thy face harder then a rock, and refuſeſt to return: if neither Gods ſpeaking to thy rocky heart, in a word of inſtruction; nor his ſmiting of thy rocky heart, with a rod of correction, doth make thee break and yeeld before him; then haſt thou for the preſent, cauſe enough to queſtion thy comfortable right unto, or thy ſaving intereſt in this rock of <hi>Iſrael.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Againe, if <hi>Iſraels</hi> rock be thy rock, then haſt thou a high prizing of, a faſt cleaving to this rock of <hi>Iſrael;</hi> a prizing of it as the Merchants Pearle, yea as a rock of Pearle, a cleaving to it as a drowning man hangs upon a rock, ſticks to it, and if he dies, dies there with his armes graſping and hands clinging as it it were, pulling and ha<g ref="char:EOLhyphen"/>ling the rock unto him: a beleever looks upon God in Chriſt as his richeſt treaſure, which he moſt prizes; as his ſafeſt reſuge,
+<note place="margin">Exod. 17.</note> to which he cleaveth. That rock in the Wilderneſſe which the Heathen lookt upon as a bare hard ſtone of no worth or value, that very rock by <hi>Iſrael</hi> was eyed as a fountaine of life to them, and was of great eſteeme among them: and that Chriſt who being in this world as in a Wilderneſſe, was lookt upon by the men of the world,
+<note place="margin">Iſa. 53.2.</note> as without form or comlineſſe, as if there were no beauty in him why he ſhould be deſired; that very Chriſt is lookt upon by beleevers as the chiefe corner<g ref="char:EOLhyphen"/>ſtone,
+<note place="margin">1 Pet. 2.6.</note> elect and precious. All mankind having ſuffered ſhipwrack in <hi>Adam,</hi> Chriſt appeares as a planck to carry us to ſhoare; nay, as a rock to ſecure our ſelves in: the Goſpel is as a finger pointing us unto, or as a hand lea<g ref="char:EOLhyphen"/>ding and carrying us unto, and ſetting us upon the rock Chriſt, and then, O what prizing of Chriſt, what clea<g ref="char:EOLhyphen"/>ving to Chriſt, the voyce of <hi>David</hi> is the voyce of every beleeving ſoule,
+<note place="margin">Pſal. 122.2, 3.</note> The Lord is my rock, in him will I truſt, &amp;c.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Laſtly, he that hath a property in this rock, builds upon it by acts of faith, and by renewed obedience; he that heares and doeth,
+<note place="margin">Matt. 7.24. &amp;c.</note> he builds wiſely, laies Chriſt the
+<pb n="21" facs="tcp:111129:16"/>rock for a foundation, and ſo builds roome after roome, ſtory upon ſtory, grace upon grace; juſtification (as it were) the firſt ſtory, Sanctification the ſecond, glorificati<g ref="char:EOLhyphen"/>on the higheſt, even as high as Heaven, and all this upon and from the rock the Lord Jeſus Chriſt.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>3</label> In the next place, what hath beene delivered, ſpeakes comfort to beleevers, who are in this rock; I may ſay to each of them, if there be any comforts in God, in Chriſt, in promiſes, in providence, its all thy portion; if thou wanteſt whereon to build all thy hopes, God in Chriſt is a rock of foundations; if enemies annoy thee, men or Devils, he is a rock of defence and ſhelter; if the ſenſe of thy ſinne and Gods wrath lies burning and ſcorch<g ref="char:EOLhyphen"/>ing upon thy ſpirit, he is a rock of ſhade to coole and refreſh thee; if thou hunger and thirſt after righteouſ<g ref="char:EOLhyphen"/>neſſe, aſſurance of Gods love, peace of conſcience, in<g ref="char:EOLhyphen"/>creaſe of grace, &amp;c. he is a watering rock, a feeding rock to thy ſoule, onely ſpeak to the rock by prayer, and ſmite the rock by acts of ſaith, and the living waters of con<g ref="char:EOLhyphen"/>ſolation will flow abundantly upon thy ſoule, yea ſuck this rock, lay thy mouth cloſe unto it, thou ſhalt ſuck ho<g ref="char:EOLhyphen"/>ney out of it, even the ſweeteſt graces and conſolations that thy ſoule can wiſh for; if thou feareſt thou ſhalt fall off from the rock, fall quite away, then know, thou art in that rock that is a rock of Ages, thy ſafety lies not in thy holding the rock, but in the rocks holding thee; this rock of Ages will preſerve thy ſoule to all eternity. <hi>Iſrael</hi> murmured, rebelled, the rock onely is ſmitten; mankind ſinned, Chriſt onely ſuffered: and that God which gave waters out of a rock to rebels for a corporall, temporall ſalvation, gives waters of life out of Chriſt more freely and abundantly to beleevers for their ſalvation ſpirituall and eternall. God put <hi>Moſes</hi> into the rock, and laid his hand upon the hole of the rock, kept in <hi>Moſes,</hi> and he was ſafe: God puts beleevers into Chriſt by election from eternity, and by a hand of love, of power and provi<g ref="char:EOLhyphen"/>dence holds them in Chriſt ſafe to eternity. Solace thy
+<pb n="22" facs="tcp:111129:17"/>ſelfe againſt the guilt of ſinne, the horror of conſcience, the curſes of the Law, the malice of Satan and all the powers of Hell, O thou trembling, and yet belee<g ref="char:EOLhyphen"/>ving ſoule,
+<note place="margin">Cant. 2.14.</note> thou art as the Dove in the clefts of the rock, ſafe from all theſe fowles of prey, that would devoure you; the portion of every beleeving ſoule is, what <hi>Ba<g ref="char:EOLhyphen"/>laam</hi> laies out as the portion of the <hi>Kenites,
+<note place="margin">Numb. 24.21. <hi>Ainſw.</hi> thinks there is <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to the Hebr. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>a neſt</hi>
+                  </note> Strong is thy dwelling place, and thou putteſt thy neſt in a rock:</hi> the <hi>Ke<g ref="char:EOLhyphen"/>nite</hi> thought himſelfe ſecure, becauſe he dwelt by <hi>Iſrael;</hi> O how great is the ſafety of a beleever who dwels in the God of <hi>Iſrael.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>4</label> The ſame truth which ſparkles out comfort to the friends, ſends forth flames of terror upon the enemies of God, his Chriſt, his Cauſe, his People, they beat as waves againſt this rock, but daſh themſelves in peeces; the ſame Hebrew word that ſignifies a rock, ſignifies alſo an edge, a ſharp knife,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> So Exod. 4.25. <hi>Zipporah</hi> took a ſharp knife or ſtone.</note> or ſtone, ſo that al oppoſers of God in his Cauſe &amp; people, do but run upon the knives point, upon the edge of Gods ſword, which he wil ſheath and fat in the bowels, will bath and make drunk in the bloud of his enemies. The privative miſery of the ungodly, or enemies, is that this rock will not ſave them: the poſitive miſery, that this rock will break them; the murmuring Iſraelites drank of the rock in <hi>Rephidim</hi> as well as the beleeving, but of the ſpirituall rock Chriſt and of the waters of life flow<g ref="char:EOLhyphen"/>ing from Chriſt, none drink but beleevers only.</p>
+            <p>
+               <hi>Gideon</hi> ſlew <hi>Oreb upon the rock Oreb,</hi> and God will ſlay and ſacrifice idolaters upon their Idols;
+<note place="margin">Judges 7.25.</note> that rock which is a rock of defence to <hi>Iſrael,</hi> proves a ſtone of ſtumbling,
+<note place="margin">1 Pet. 2.8.</note> a rock of offence to the enemy, who ſtumble at the word, being diſobedient, and that by the deſigne of God the Father,
+<note place="margin">Rom. 9. laſt.</note> who hath <hi>laid in Sion this ſtumbling ſtone, this rock of offence.</hi> Heare and tremble at that ter<g ref="char:EOLhyphen"/>rible Proclamation of vengeance,
+<note place="margin">Matth. 21.44.</note> 
+               <hi>Whoſoever ſhall fall on this ſtone, ſhall be broken, but on whomſoever this ſtone ſhall fall, it ſhall grind him to powder: whoſoever,</hi> be he Prince or Potentate, <hi>ſhall fall upon this stone,</hi> ſhall juſtle or
+<pb n="23" facs="tcp:111129:17"/>bruſh againſt this corner ſtone Chriſt, ſhall be ſcandalized at him, ſhall oppoſe and perſecute him in his members, in his ordinances, in his work of Reformation, ſhall be <hi>broken,</hi> it may be in his judgement, be craſed in his intel<g ref="char:EOLhyphen"/>lectuals, filled with errours, broken in his morals,
+<note place="margin">
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>Beza</hi> ob<g ref="char:EOLhyphen"/>ſerves out of <hi>Ariſt.</hi> that <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> were ſuch things as being broken fell into ſmall peeces.</p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>Beza ad verbum, ventilabit.</hi> i. <hi>ita comminuet ut paltae &amp; ſordes minutiſſimae ventilabr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> excuſſae.</hi>
+                  </p>
+               </note> given up to vile affections, broken in his name, and his ſtate, with diſhonour and penury. There is a dreadfull Em<g ref="char:EOLhyphen"/>phaſis in the originall againſt him, he ſhall be broken all in peeces, into ſmall ſhivers and fitters as glaſſe, ice, or earthen veſſels, irreparably, with a barre of iron: but <hi>on whomſoever this ſtone ſhall fall, it ſhall grind him to pow<g ref="char:EOLhyphen"/>der:</hi> this word alſo hath a dreadfull emphaſis in it, and implies the grinding of him ſo ſmall, that he may be caſt as duſt into the aire, and the wind ſcatter him. The poore man is in a ſad caſe when a great man his enemy fals upon him with all his power, it beggers him and his, makes him to flie his countrey, and become a vagabond: the troublers of our <hi>Iſrael</hi> look upon it as a thing full of terrour, to have Parliamentary juſtice fall upon them, and therefore ſtand it out to the death, and chuſe rather to be cut off by the ſword of warre, then that of juſtice, as deeming it a leſſer ſtaine to their bloud and families, to fall by the bullet or the ſword, then to die under the axe or halter; oh then how dreadfull and bitter a thing muſt it needs be for any to live and die in their naturals, upon whom Chriſt this great rock will fall in the day of judge<g ref="char:EOLhyphen"/>ment with the fulneſſe of his fury? they who now are not hid in the rock, ſhall not then be hid from the rock, but <hi>the Kings of the earth, and the great men,
+<note place="margin">Revel. 6.15.16.17.</note> and the rich men, and the chiefe Captaines, &amp;c. ſhall hide themſelves in the dens and in the rocks of the mountaines, and ſhall ſay to the mountaines, and the rocks, Fall on us, and hide us from the face of him that ſitteth on the Throne, and from the wrath of the Lamb, for the great day of his wrath is come, and who ſhall be able to ſtand?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>5</label> Laſtly, the Doctrine delivered affords a word of ex<g ref="char:EOLhyphen"/>hortation to the enemies and friends of the rock of <hi>Iſrael.</hi>
+            </p>
+            <pb n="24" facs="tcp:111129:18"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, oh you enemies, why doe you daſh your heads againſt this rock? you will but beat out your braines thereby; come into Chriſt, to his cauſe, dwell in this rock:
+<note place="margin">Jer. 48.28.</note> let me ſpeak to you as the Prophet to the Moa<g ref="char:EOLhyphen"/>bites, <hi>O yee that dwell in</hi> Moab, <hi>leave the Cities, and dwell in the Rock, and be like the Dove that maketh her neſt in the ſides of the holes mouth;</hi> this will be your wiſdome, this your ſafety,
+<note place="margin">1 Sam. 2.2, 3.</note> for <hi>there is none holy as the Lord, nei<g ref="char:EOLhyphen"/>ther is there any Rock like our God,</hi> as <hi>Hannah</hi> ſweetly ſings it out in the joy of her ſpirit.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, the counſell to beleevers, who are the friends of the God of <hi>Iſrael</hi> is,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, that they would ſacrifice praiſes to this rock of <hi>Iſrael</hi> for all the evils that they are delivered from, and for all the mercies that they are delivered to: <hi>David</hi> ſaith in a veine of praiſes,
+<note place="margin">Pſal. 18.46.</note> 
+               <hi>The Lord liveth, and bleſſed be my rock, and let the God of my ſalvation be exalted; Scot<g ref="char:EOLhyphen"/>land</hi> may ſay, the banders prevailed not againſt the Co<g ref="char:EOLhyphen"/>venanters, Reformation is ſetled by higheſt Authority in deſpight of Papiſt, Prelat, Pope, or Devill, lies as <hi>Gi<g ref="char:EOLhyphen"/>deons</hi> Fleece, dry in peace, when <hi>England, Ireland,</hi> and other Nations are as the ground round about, wet and ſoaked in the bloud of the ſlaine inhabitants; and therefore let <hi>Scotland</hi> ſay, <hi>The Lord liveth, and bleſſed be my rock, and let the God of my ſalvation be exalted;</hi> yea, <hi>England</hi> may ſay, I injoy a Parliament, a laſting, a wiſe and indefatigable Parliament, wherein as yet the <hi>Jacobs</hi> have beene too hard for the <hi>Eſau's;</hi> I am well ea<g ref="char:EOLhyphen"/>ſed of High-commiſſion, Star-chamber, and the iron yoak of Epiſcopacy; I have the Lord of Hoaſts fight<g ref="char:EOLhyphen"/>ing my battles for me at <hi>Keinton, Newbery, &amp;c.</hi> I injoy a renowned Metropolis no rebellious City, and therefore let <hi>England</hi> ſay, <hi>The Lord-liveth, and bleſſed be my Rock, and let the God of my ſalvation be exalted;</hi> yea, let both the Nations provoke each other to an height of praiſes, and cry each to other,
+<note place="margin">Pſal. 95.1.</note> 
+               <hi>O come let us ſing unto the Lord, and let us make a joyfull noyſe to the God of our ſalva<g ref="char:EOLhyphen"/>tion;</hi>
+               <pb n="25" facs="tcp:111129:18"/>our care muſt be to get the ſpirit and reality of prai<g ref="char:EOLhyphen"/>ſes in the ſincerity of obedience, and the ingaging our ſelves, our eſtates, our liberties, our lives, our all for God and for his Cauſe. <hi>Hannah</hi> having the mercy of a ſonne, names him <hi>Samuel,</hi> that is, asked of the Lord,
+<note place="margin">1 Sam. 1.20.</note> makes her ſong of praiſe, and ſpiritualizeth her praiſes, <hi>lends or gives her</hi> Samuel <hi>unto the Lord;</hi> all the mercies, deliverances, victories, parts, gifts, &amp;c. we injoy, may be named <hi>Samuels, asked</hi> of the Lord, or rather, out of preventing bounty, <hi>given</hi> of the Lord; our returne of praiſes muſt be our lending, our giving all back againe unto the Lord;
+<note place="margin">Zach. 14.20.</note> you have already in a degree fulfilled that propheſie of <hi>Zachary,</hi> have wrote upon the <hi>bels, or bridles of your horſes, Holineſſe unto the Lord;</hi> upon your <hi>pots, your bowles, your plate, Holineſſe unto the Lord;</hi> write on ſtill you <hi>wiſe States-men,</hi> write upon your fore<g ref="char:EOLhyphen"/>heads, upon yor brain-pans, <hi>Holineſſe unto the Lord.</hi> You <hi>rich men and wealthy,</hi> write upon your bagges, and purſes, <hi>Holineſſe unto the Lord;</hi> your lending to God in his cauſe will be upon the beſt uſury, and when all is done, <hi>Publike<g ref="char:EOLhyphen"/>faith</hi> under Heaven, is the beſt ſecurity. You <hi>valiant Commanders and brave</hi> reſolute Souldiers, young men and ſtrong, write upon your armes and thighes, up<g ref="char:EOLhyphen"/>on your ſwords and ſpeares, <hi>Holineſſe unto the Lord;</hi> goe on in a pious prodigality of your bloud and lives: the Cauſe is good, look to the grounds and principles you move upon, to the ends you aime at, that they be good alſo, and then I will ſay of you,
+<note place="margin">Cyprian. <hi>Occi<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>poterant, vin<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i non poterant.</hi>
+               </note> as <hi>Cyprian</hi> ſaid of perſe<g ref="char:EOLhyphen"/>cuted Chriſtians, you may be ſlaine, but not overcome: when you die with the Cauſe of Chriſt in your hearts and in your hands; and when you are ingaged in the battle, drink downe this cordiall Dilemma, If you live, you will live honoured, if you die, you will die mar<g ref="char:EOLhyphen"/>tyred.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Againe, be exhorted to be rocks one to another, daſh not one againſt another; what though there be variety of judgements among us, why may we not be one in
+<pb n="26" facs="tcp:111129:19"/>our affections? why not one againſt the common adver<g ref="char:EOLhyphen"/>ſary? The Sheep, though they butt and thump one ano<g ref="char:EOLhyphen"/>ther, yet they will all head together againſt the Dogge. I hope in God that he will make the Aſſembly of Diviner a patterne of agreement to all the friends of truth and peace that behold them; I will wait for the fulfilling of that promiſe (if not a Synod promiſe, yet a promiſe, as ſome conclude,
+<note place="margin">
+                  <hi>Leighs</hi> Treat. of promiſes.</note> of the ſweet accord of Miniſters in the daies of the Goſpel) <hi>Ephraim ſhall not envie Judah, and Judah ſhall not vex Ephraim,
+<note place="margin">Iſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 11.13, 14.</note> but they ſhall flie upon the ſhoulders of the Philiſtins, &amp;c.</hi> to wit, lay out their ſtrength againſt the publike enemy of truth and peace. And you the <hi>Worthies,</hi>
+               <note place="margin">Heb. 12.14.</note> follow peace (I meane not a baſe complying peace with the publike enemy, for private ends) but a ſweet unanimous peace among your ſelves,
+<note place="margin">
+                  <hi>P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſar Lex.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>de</hi> re <hi>dictam ſign<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fi<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> obli<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d.</hi>
+               </note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> fol<g ref="char:EOLhyphen"/>low it as the <hi>Hue and Cry</hi> followes the flying felons, follow it as the <hi>young Gentleman</hi> followes his game in chaſe over hedge and ditch, through thick and thin, thus follow peace among your ſelves with greedineſſe and de<g ref="char:EOLhyphen"/>light; jarring and diviſions here, is the beſt muſick and melody that can be made elſewhere among your ene<g ref="char:EOLhyphen"/>mies at home or abroad. And now could I lift up my voyce like a Trumpet, and ſpeak to all the Counties of the Kingdome, my advice ſhould be, that they would ſtick to, and be rocks to the Parliament, which is a rock to them, to contend earneſtly for the faith for Religion, as alſo for Lawes and Liberties. It is <hi>Englands ſinne and miſery,</hi> that many parts of the Kingdome, either poyſon<g ref="char:EOLhyphen"/>ed by a rotten Miniſtery, or miſled by a looſe Gentry, have deſerted the Parliament, and therein God, his Cauſe, his people yea, their owne priviledges and them<g ref="char:EOLhyphen"/>ſelves alſo; the very ſame men that not long ſince groa<g ref="char:EOLhyphen"/>ned for a Parliament, now (though without cauſe) groane under it, like the ſickle froward child that cries for this thing and that, and no ſooner hath it, but is weary of it, and cries as faſt. Away with it, away with it; or like the giddy <hi>Jewes,</hi> ſhouting <hi>Hoſanna, Hoſanna,</hi> and with the
+<pb n="27" facs="tcp:111129:19"/>ſame breath, <hi>Crucifie him, Crucifie him;</hi> or like the fret<g ref="char:EOLhyphen"/>full Patient, who drinks downe the Potion, but when he feeles it worke, doth up with it againe; or as the hand that laies on the plaiſter, becauſe it ſmarts a little, the ſame hand teares it off againe; and would the unnatu<g ref="char:EOLhyphen"/>rall Parliament, and Kingdome-deſerters ſpeak out, their reaſon would be the enmity, and the rancour of their ſpirits againſt Chriſt and his work of Reformation: the prophane ſelfiſh people would have had mans carnall yoake taken off from their ſhoulders, but not Chriſts ſpirituall yoake laid on; longed to have the wals and houſes of <hi>Jeruſalem</hi> built, but not the Temple, the af<g ref="char:EOLhyphen"/>faires of the State ſetled, but not of the Church; this Kingdoms peace and plenty they greedily deſired, but not the glory of Chriſts Kingdome; and though often they <hi>patter</hi> over their <hi>Pater-Noſter,</hi> yet they never ſay in faith and truth, <hi>thy Kingdome come:</hi> and the cauſe (in a word) why theſe are ſo little for the Parliament, is, becauſe the Parliament is ſo much for God, for Chriſt, his cauſe and people.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Laſtly, <hi>Build</hi> upon this rock for all good perſonall and Nationall, for all evill to the enemies, they ſhall fall,
+<note place="margin">Deut 32.35.</note> 
+               <hi>build</hi> upon it, to <hi>God belongeth vengeance and recompence, their feet ſhall ſlide in due time, for the day of their ca<g ref="char:EOLhyphen"/>lamity is at hand, and the things that come upon them make haſt;</hi> live by <hi>faith,</hi> that is a building grace, lie low in <hi>humiliation,</hi> ſelfe-judging, ſin-abhorring, that is to build alſo; if thou ſayeſt, I <hi>cannot beleeve,</hi> cannot get into the rock, yet then intreat the rock to lead thy ſoule unto, and to ſet it upon the rock; ſo <hi>David,</hi>
+               <note place="margin">Pſal. 61.2.</note> from <hi>the ends of the earth will I cry unto thee when my heart is overwhelmed, lead me to the rock that is higher then I.</hi> If againe thou object and ſay, <hi>I cannot mourne</hi> for my owne ſinnes, much leſſe for the abominations of the times,
+<note place="margin">Job 29.6. alluded to. Jer. 23.29.</note> yet ſtill goe to that God <hi>who makes the rock to powre out rivers of oyle,</hi> to that God whoſe <hi>word is a fire to melt thy heart, a hammer to break that rock in peeces.</hi>
+               <pb n="28" facs="tcp:111129:20"/>Again,
+<note place="margin">Pſal. 18.2, 3. Matth. 7.24.</note> 
+               <hi>build in prayer.</hi> So <hi>David, The Lord is my rock, I will truſt in him, I will call upon the Lord.</hi> Yet further, <hi>be ſingle hearted in obedience,</hi> that is building alſo; yea, it concerns thoſe that have power in their hands, to give out an act of obedience to God in execution of judgement upon his enemies;
+<note place="margin">1 Sam. 15.22.</note> there is a time when <hi>obedience is better then ſa<g ref="char:EOLhyphen"/>crifice;</hi> yea, obedience, <hi>in putting of Agags to the ſword,</hi> according to Gods command;
+<note n="*" place="margin">Thankſgi<g ref="char:EOLhyphen"/>ving for the vi<g ref="char:EOLhyphen"/>ctory obtained by the Lord <hi>Fairfax</hi> at <hi>Sel<g ref="char:EOLhyphen"/>by</hi> in <hi>Yorkſhire.</hi> Pſal. 106.30.</note> yeſter dayes feaſting was good, and this dayes faſting good, and (let none think it bloudy divinity if I ſay) execution of judgement is good alſo Phineas <hi>stood up &amp; executed judgement, and ſo the Plague was ſtaied.</hi> Joſhuah <hi>prayeth,</hi> and <hi>prayeth till the eventide, rents his cloaths, puts dust upon his head, &amp;c.</hi> But what ſaith the Lord to <hi>Joſhuah?
+<note place="margin">Joſhua 7.10, 11</note> Get thee up, wherefore lieſt thou upon thy face? Iſrael hath ſinned, and they alſo have tranſ<g ref="char:EOLhyphen"/>greſſed my Covenant which I commanded them, &amp;c.</hi> Where<g ref="char:EOLhyphen"/>by God tutored <hi>Joſhuah</hi> to this, that the readieſt way to conquer <hi>Ai,</hi> was to ſtone <hi>Achan.</hi>
+            </p>
+            <p>I know many ſad thoughts concerning this lie in the ſpirits of beleevers, and therefore wonder not though I become your remembrancer herein this day.</p>
+            <p>Let me beſeech you the <hi>Worthies</hi> of the Nation, in the bowels of Chriſt to goe on reſolutely in the Cauſe of Chriſt; true, your oppoſitions have beene, and pro<g ref="char:EOLhyphen"/>bably will be great and many, yet may you for the preſent, ſet up a Marble Monument of praiſes, and name it <hi>Eben-Ezer,</hi>
+               <note place="margin">1 Sam. 7.12.</note> the ſtone of help; and ſay with <hi>Samuel, Hitherto hath the Lord helped us.</hi> Me thinks I ſee you like <hi>Jonathan</hi> and his Armour-bearer,
+<note place="margin">1 Sam. 14.</note> climbing and clam<g ref="char:EOLhyphen"/>bring up the rocks upon your hands and upon your feet, yet know your ſucceſſe ſhall be glorious the Phili<g ref="char:EOLhyphen"/>ſtins ſlaine and vanquiſhed; it was a good ſaying, that the <hi>Event of that warre cannot be dubions where the Lord of Hoaſts is Generall.</hi>
+               <note place="margin">
+                  <hi>Eraz. Mar. Deo dace non poteſt eſſe dubi<g ref="char:EOLhyphen"/>us belli eventus.</hi> Rev. 10.5, 6. &amp;c.</note> God hath ſworne the fall of Antichriſt and his adherents, and that with ſuch ſolemnity (to ſtrengthen Faith, and quicken Prayer) that ſcarce the like in all the Scriptures, <hi>The Angell that ſweares is Chriſt,</hi> his
+<pb n="29" facs="tcp:111129:20"/>ſwearing geſture or poſture was, <hi>he ſtands upon the Sea and upon the Earth, and lift up his hand to Heaven;</hi> and whom ſweares he by? by <hi>Him that lives for ever and ever, who cre<g ref="char:EOLhyphen"/>ated Heaven and the things that therein are, and the Earth, &amp;c.</hi> his Oath is by the Eternall Creator, and what ſweares he?
+<note place="margin">Par. in loc.</note> that there <hi>ſhould be time no longer,</hi> to wit, that Antichriſt ſhould be ruined, his adherents ſcattered.</p>
+            <p>Let my cloſing counſell be in the words of <hi>Jehoſophat</hi> to <hi>Judah,</hi> and the inhabitants of <hi>Jeruſalem,
+<note place="margin">2 Chron. 20.20</note> Beleeve in the Lord your God, ſo ſhall yee be eſtabliſhed; beleeve his Pro<g ref="char:EOLhyphen"/>phets, ſo ſhall yee proſper.</hi> And in his words alſo,
+<note place="margin">2 Chron. 19.11</note> to the Prieſts and Levits, <hi>Deale couragiouſly, and the Lord ſhall be with the good,</hi> the good God with a good cauſe and a good people; and when things are at the loweſt, let our faith be then at the higheſt, triumphing over dangers and feares, <hi>becauſe their rock is not as our Rock, even our enemies themſelves being Judges.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
